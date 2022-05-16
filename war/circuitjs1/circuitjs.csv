@@ -1,1216 +1,1216 @@
 "TRANSLATION_EN"¬"TRANSLATION_ES"¬"TRANSLATION_CA"
-" (mod "¬" (mod "¬
-" bad connection"¬" conexión incorrecta"¬
-" bad connections"¬" conexiones incorrectas"¬
-"# of Address Bits"¬"Número de Bits de Dirección"¬
-"# of Bits"¬"Número de Bits"¬
-"# of Data Bits"¬"Número de Bits de Datos"¬
-"# of Data Points"¬"Número de Puntos de Datos"¬
-"# of Decimal Digits (long format)"¬"Número de Dígitos Decimales (formato largo)"¬
-"# of Decimal Digits (short format)"¬"Número de Dígitos Decimales (formato corto)"¬
-"# of Inputs"¬"Número de Entradas"¬
-"# of Select Bits"¬"Número de Bits de Selección"¬
-"# of Throws"¬"Número de Tentativas"¬
-"#.##E000"¬"#.##E000"¬
-"&nbsp;</div>Active Building Blocks"¬"&nbsp;</DIV>BLoques de Construcción Activos"¬
-"&nbsp;</div>Active Components"¬"&nbsp;</DIV>Componentes Activos"¬
-"&nbsp;</div>Analog and Hybrid Chips"¬"&nbsp;</DIV>Circuitos Integrados Analógicos e Híbridos"¬
-"&nbsp;</div>Digital Chips"¬"&nbsp;</DIV>Circuitos Integrados Digitales"¬
-"&nbsp;</div>Drag"¬"&nbsp;</DIV>Arrastar"¬
-"&nbsp;</div>Inputs and Sources"¬"&nbsp;</DIV>Entradas y Fuentes"¬
-"&nbsp;</div>Logic Gates, Input and Output"¬"&nbsp;</DIV>Puertas Lógicas, Entrada y Salida"¬
-"&nbsp;</div>Outputs and Labels"¬"&nbsp;</DIV>Salidas y Etiquetas"¬
-"&nbsp;</div>Passive Components"¬"&nbsp;</DIV>Componentes Pasivos"¬
-"&nbsp;</div>Subcircuits"¬"&nbsp;</div>Subcircuitos"¬
-"(A-Cmd-drag)"¬"Alt+Cmd+arrastar"¬
-"(A-M-drag)"¬"Alt+M+arrastar"¬
-"(A-S-drag)"¬"Alt+Shift+arrastar"¬
-"(Alt-drag)"¬"Alt+arrastar"¬
-"(no change)"¬"(Ningún cambio)"¬
-"(saved)"¬"(guardado)"¬
-"(space or Shift-drag)"¬"(espacio o shift+arrastar)"¬
-"0000"¬"0000"¬
-"0001"¬"0001"¬
-"0011"¬"0011"¬
-"0110"¬"0110"¬
-"1-of-4 Decoder"¬"Decodificador 1:4"¬
-"1001"¬"1001"¬
-"1010"¬"1010"¬
-"1011"¬"1011"¬
-"1100"¬"1100"¬
-"1110"¬"1110"¬
-"1111"¬"1111"¬
-"14 Segment"¬"14 Segmentos"¬
-"16 Segment"¬"16 Segmentos"¬
-"2-Bit Comparator"¬"Comparador de 2 bits"¬
-"2-to-1 Mux"¬"Multiplexor 2:1"¬
-"3- and 4-Way Light Switches"¬"Interruptor 3 y 4-Vías"¬
-"3-Way Light Switches"¬"Interruptor de Luz 3-Way"¬
-"4-Bit Ripple Counter"¬"Contador de Pulsos de 4 Bits"¬
-"555 Timer"¬"Temporizador 555"¬
-"555 Timer Chip"¬"Temporizador CI 555"¬
-"7 Segment"¬"7 Segmentos"¬
-"7-Segment Decoder"¬"Decodificador 7 Segmentos"¬
-"7-Segment LED Decoder"¬"Decodificador de Display de 7 Segmentos"¬
-"741 (inverting amplifier)"¬"741 (amplificador inversor)"¬
-"741 Current Limits"¬"741 (limites de corriente de Salida)"¬
-"741 Internals"¬"Circuito Interno de 741"¬
-"741 Slew Rate"¬"Velocidade de Respuesta de Salida de 741"¬
-"74181 ALU"¬"74181 ALU"¬
-"8-Bit Ripple Counter"¬"Contador de Pulsos de 8 Bit"¬
-"<Strong>RUN</Strong>&nbsp;/&nbsp;Stop"¬"<Strong>Encender</Strong>&nbsp;/&nbsp;Parar"¬
-"<strong>RUN</strong>&nbsp;/&nbsp;Stop"¬"<strong>Encender</strong>&nbsp;/&nbsp;Parar"¬
-"A - 1"¬"A - 1"¬
-"A - B - 1"¬"A - B - 1"¬
-"A \p A"¬"A \p A"¬
-"A \p B"¬"A \p B"¬
-"A and B"¬"A and B"¬
-"A or B"¬"A or B"¬
-"A xor B"¬"A xor B"¬
-"A/C"¬"Alterna"¬
-"A/C Circuits"¬"Circuitos CA"¬
-"A/C source"¬"Fuente CA"¬
-"AC Coupled"¬"Acoplamiento CA"¬
-"AC Trigger"¬"Trigger CA"¬
-"ADC"¬"Conversor ADC"¬
-"AM Detector"¬"Detector AM"¬
-"AM Source"¬"Fuente de Señal AM"¬
-"AND gate"¬"Puerta AND"¬
-"About..."¬"Sobre..."¬
-"Active Filters"¬"Filtros Activos"¬
-"Add "¬"Añadir"¬
-"Add 555 Timer"¬"Añadir Temporizador CI 555"¬
-"Add 7 Segment Decoder"¬"Añadir Decodificador de 7 Segmentos"¬
-"Add 7 Segment LED"¬"Añadir Display de 7 Segmentos a LED"¬
-"Add A/C Sweep"¬"Añadir A/C Sweep"¬
-"Add A/C Voltage Source (1-terminal)"¬"Fuente de Tensión CA (1 terminal)"¬
-"Add A/C Voltage Source (2-terminal)"¬"Fuente de Tensión CA (2 terminales)"¬
-"Add ADC"¬"ADC"¬
-"Add AM Source"¬"Añadir Fuente de Señal AM"¬
-"Add AND Gate"¬"Añadir Puerta AND"¬
-"Add Adder"¬"Añadir Sumador"¬
-"Add Ammeter"¬"Añadir Amperímetro"¬
-"Add Analog Output"¬"Añadir Salida Analógica"¬
-"Add Analog Switch (SPDT)"¬"Añadir Interruptor Analógico de 1 Posición"¬
-"Add Analog Switch (SPST)"¬"Añadir Interruptor Analógico de 2 Posiciones (SPST)"¬
-"Add Antenna"¬"Añadir Antena"¬
-"Add Audio Input"¬"Añadir Entrada de Audio"¬
-"Add Audio Output"¬"Añadir Salida de Áudio"¬
-"Add Box"¬"Añadir Recuadro"¬
-"Add CCII+"¬"Añadir (CCII+)"¬
-"Add CCII-"¬"Añadir (CCII-)"¬
-"Add Capacitor"¬"Añadir Condensador"¬
-"Add Capacitor (polarized)"¬"Añadir Condensador (polarizado)"¬
-"Add Clock"¬"Añadir Señal de Reloj"¬
-"Add Comparator (Hi-Z/GND output)"¬"Añadir Comparador (Salida Hi-Z/GND)"¬
-"Add Counter"¬"Añadir Contador"¬
-"Add Counter w/ Load"¬"Añadir Contador con Carga"¬
-"Add Crystal"¬"Añadir Cristal"¬
-"Add Current Source"¬"Añadir Fuente de corriente"¬
-"Add Current-Controlled Current Source (CCCS)"¬"Añadir Fuente de corriente Controlada por corriente"¬
-"Add Current-Controlled Voltage Source (CCVS)"¬"Añadir Fuente de Tensión Controlada por corriente"¬
-"Add Custom Logic"¬"Añadir Insertar Lógica Personalizada"¬
-"Add Custom Transformer"¬"Añadir Transformador Personalizado"¬
-"Add D Flip-Flop"¬"Añadir Flip-Flop Tipo D"¬
-"Add DAC"¬"Añadir DAC"¬
-"Add DC Motor"¬"Añadir Motor CC"¬
-"Add DIAC"¬"Añadir DIAC"¬
-"Add Darlington Pair (NPN)"¬"Añadir Par Darlington (NPN)"¬
-"Add Darlington Pair (PNP)"¬"Añadir Par Darlington (PNP)"¬
-"Add Data Export"¬"Añadir Exportación de Datos"¬
-"Add Data Input"¬"Añadir Entrada de Datos"¬
-"Add Decimal Display"¬"Añadir Display Decimal"¬
-"Add Delay Buffer"¬"Añadir Buffer de Retardo"¬
-"Add Demultiplexer"¬"Añadir Demultiplexor"¬
-"Add Diode"¬"Añadir Diodo"¬
-"Add External Voltage (JavaScript)"¬"Añadir Voltaje Externo (JavaScript)"¬
-"Add FM Source"¬"Añadir Fuente de FM"¬
-"Add Fuse"¬"Añadir Fusible"¬
-"Add Ground"¬"Añadir Tierra - Masa"¬
-"Add Half Adder"¬"Añadir Semisumador"¬
-"Add Inductor"¬"Añadir Inductor"¬
-"Add Inverter"¬"Añadir Inversor"¬
-"Add JFET (N-Channel)"¬"Añadir Transistor FET (Canal N)"¬
-"Add JFET (P-Channel)"¬"Añadir Transistor FET (Canal P)"¬
-"Add JK Flip-Flop"¬"Añadir Flip-Flop JK"¬
-"Add LED"¬"Añadir LED"¬
-"Add LED Array"¬"Añadir Matriz de LEDs"¬
-"Add LM317"¬"Añadir LM317"¬
-"Add Labeled Node"¬"Añadir Nodo con Nombre"¬
-"Add Lamp"¬"Añadir Lámpara"¬
-"Add Latch"¬"Añadir Latch"¬
-"Add Line"¬"Añadir Línea"¬
-"Add Logic Input"¬"Añadir Entrada Lógica"¬
-"Add Logic Output"¬"Añadir Salida Lógica"¬
-"Add MOSFET (N-Channel)"¬"Añadir MOSFET (Canal N)"¬
-"Add MOSFET (P-Channel)"¬"Añadir MOSFET (Canal P)"¬
-"Add Make-Before-Break Switch"¬"Añadir Switch Make-Before-Break"¬
-"Add Memristor"¬"Añadir Resistencia con Memória"¬
-"Add Monostable"¬"Añadir Monoestable"¬
-"Add Multiplexer"¬"Añadir Multiplexor"¬
-"Add NAND Gate"¬"Añadir Puerta NAND"¬
-"Add NOR Gate"¬"Añadir Puerta NOR"¬
-"Add Noise Generator"¬"Añadir Generador de Ruído"¬
-"Add OR Gate"¬"Añadir Puerta OR"¬
-"Add OTA (LM13700 style)"¬"Añadir Amplificador OTA (LM13700)"¬
-"Add Ohmmeter"¬"Añadir Ohmmímetro"¬
-"Add Op Amp (ideal, + on top)"¬"Añadir Amplificador Operacional Ideal (+ arriba)"¬
-"Add Op Amp (ideal, - on top)"¬"Añadir Amplificador Operacional Ideal (- arriba)"¬
-"Add Op Amp (real)"¬"Añadir Amplificador Operacional (real)"¬
-"Add Optocoupler"¬"Añadir Acoplador Óptico"¬
-"Add PISO shift register"¬"Añadir registro de desplazamiento PISO"¬
-"Add Phase Comparator"¬"Añadir Comparador de Fase"¬
-"Add Photoresistor"¬"Añadir Fotoresistencia"¬
-"Add Potentiometer"¬"Añadir Resistencia variable"¬
-"Add Push Switch"¬"Añadir Pulsador"¬
-"Add Relay"¬"Añadir Relé"¬
-"Add Resistor"¬"Añadir Resistencia"¬
-"Add Ring Counter"¬"Añadir Contador en Anillo"¬
-"Add SCR"¬"Añadir SCR"¬
-"Add SIPO shift register"¬"Añadir registro shift SIPO"¬
-"Add SPDT Switch"¬"Añadir Conmutador SPDT"¬
-"Add Schmitt Trigger"¬"Añadir Disparador Schmitt"¬
-"Add Schmitt Trigger (Inverting)"¬"Añadir Disparador Schmitt (invirtiendo)"¬
-"Add Sequence generator"¬"Añadir Generador de Secuencia"¬
-"Add Sliders"¬"Añadir Deslizadores"¬
-"Add Spark Gap"¬"Añadir Descargador"¬
-"Add Square Wave Source (1-terminal)"¬"Añadir Generador de Onda Cuadrada (1 terminal)"¬
-"Add Static RAM"¬"Añadir RAM Estática"¬
-"Add Stop Trigger"¬"Añadir Disparador de Stop"¬
-"Add Subcircuit Instance"¬"Añadir Sub-circuito"¬
-"Add Switch"¬"Añadir Interruptor"¬
-"Add T Flip-Flop"¬"Añadir Flip-Flop T"¬
-"Add TL431"¬"Añadir TL431"¬
-"Add TRIAC"¬"Añadir TRIAC"¬
-"Add Tapped Transformer"¬"Añadir Trasformador Simétrico"¬
-"Add Test Point"¬"Añadir Punto de Test"¬
-"Add Text"¬"Añadir Texto"¬
-"Add Thermistor"¬"Añadir Termistor"¬
-"Add Time Delay Relay"¬"Añadir Relé de Retardo de Tiempo"¬
-"Add Transformer"¬"Añadir Trasformador"¬
-"Add Transistor (bipolar, NPN)"¬"Añadir BJT NPN"¬
-"Add Transistor (bipolar, PNP)"¬"Añadir BJT PNP"¬
-"Add Transmission Line"¬"Añadir Linea de transmisión"¬
-"Add Triode"¬"Añadir Triodo"¬
-"Add Tristate Buffer"¬"Añadir Buffer Tri-State"¬
-"Add Tunnel Diode"¬"Añadir Diodo Túnel"¬
-"Add Unijunction Transistor"¬"Añadir Transistor Uniunión"¬
-"Add VCO"¬"Añadir Oscilador Controlado por Tensión (VCO)"¬
-"Add Varactor/Varicap"¬"Añadir Varicap"¬
-"Add Variable Voltage"¬"Añadir Fuente de Tensión Variable"¬
-"Add Voltage Source (1-terminal)"¬"Añadir Fuente de Tensión (1 terminal)"¬
-"Add Voltage Source (2-terminal)"¬"Añadir Fuente de Tensión (2 terminales)"¬
-"Add Voltage-Controlled Current Source (VCCS)"¬"Añadir Fuente de corriente Controlada por Tensión"¬
-"Add Voltage-Controlled Voltage Source (VCVS)"¬"Añadir Fuente de Tensión Controlada por Tensión"¬
-"Add Voltmeter/Scope Probe"¬"Añadir Voltímetro/Sonda"¬
-"Add Wattmeter"¬"Añadir Watímetro"¬
-"Add Wire"¬"Añadir Conexión Eléctrica"¬
-"Add XOR Gate"¬"Añadir Puerta XOR"¬
-"Add Zener Diode"¬"Añadir Diodo Zener"¬
-"Add to Existing Scope"¬"Añadir al Ámbito Existente"¬
-"Adder"¬"Sumador"¬
-"Adjust timestep for best audio quality and performance?"¬"¿Ajustar el intervalo de tiempo para la mejor calidad de audio y eficiencia?"¬
-"Adjust timestep to allow for higher frequencies?"¬"¿Ajustar el intervalo de tiempo para frecuencias más altas?"¬
-"Allpass"¬"Pasa todo"¬
-"Allpass w/ Square"¬"Pasa todo c/ Onda Cuadrada"¬
-"Ammeter"¬"Amperímetro"¬
-"Amplifier"¬"Amplificador"¬
-"Amplifiers"¬"Amplificadores"¬
-"Analog/Digital"¬"Analógico/Digital"¬
-"Apply"¬"Aplicar"¬
-"Are you sure?"¬"¿Estás seguro?"¬
-"Are you sure?  There are unsaved changes."¬"¿Estás seguro? Hay cambios sin guardar."¬
-"Armature Resistance (ohms)"¬"Resistencia de armadura (ohms)"¬
-"Armature inductance (H)"¬"Inductancia de armadura (H)"¬
-"Astable Multivib"¬"Multivibrador Astable"¬
-"Audio Out"¬"Salida de Áudio"¬
-"Audio data is not ready yet.  Increase simulation speed to make data ready sooner."¬"Datos de áudio ainda No disponíveis. Aumentar a Velocidad de Simulación para antecipar os Datos."¬
-"Auto"¬"Auto"¬
-"Auto (Max Scale)"¬"Auto (Máxima escala)"¬
-"Auto-Adjust Timestep"¬"Auto-Ajuste Intervalo de tiempo"¬
-"B-C Leakage Emission Coefficient (NC)"¬"B-C Coeficiente de Emisión de Fugas (NC)"¬
-"B-C Leakage Saturation Current (ISC)"¬"B-C Corriente de Saturación de Fugas (ISC)"¬
-"B-E Leakage Emission Coefficient (NE)"¬"B-E Coeficiente de Emisión de Fugas (NE)"¬
-"B-E Leakage Saturation Current (ISE)"¬"B-E Corriente de Saturación de Fugas (ISE)"¬
-"Back emf constant (Vs/rad)"¬"Constante de fuerza electromotriz (Vs/rad)"¬
-"Band-pass Filter"¬"Filtro Pasa-Banda"¬
-"Band-pass w/ Noise"¬"Pasa-Banda c/ ruido"¬
-"Band-pass with Ringing"¬"Pasa-Banda c/ Oscilaciones"¬
-"Base Inductance (H)"¬"Inductancia Base (H)"¬
-"Basics"¬"Básicos"¬
-"Behaviour"¬"Comportamiento"¬
-"Bessel vs Butterworth"¬"Bessel vs Butterworth"¬
-"Beta"¬"Beta"¬
-"Beta/hFE"¬"Beta/hFE"¬
-"Bidirectional"¬"Bidireccional"¬
-"Bifurcation points:"¬"Puntos de separación :"¬
-"Binary"¬"Binario"¬
-"Binary Value"¬"Valor en Binario"¬
-"Binary-Weighted DAC"¬"DAC Ponderado en Binaria"¬
-"Bistable Multivib (Flip-Flop)"¬"Multivibrador Biestable (Flip-Flop)"¬
-"Blank Circuit"¬"Nuevo Circuito"¬
-"Blank Pin"¬"Nuevo Pin"¬
-"Blank on 1111"¬"Nuevo cuando 1111"¬
-"Blocking Inductive Kickback"¬"Limitador de Contragolpe Inductivo"¬
-"Blue Value (0-1)"¬"Valor en Azul (0-1)"¬
-"Body Terminal"¬"Terminal de Substrato"¬
-"Boost Converter"¬"Convertidor Elevador"¬
-"Both Sides"¬"Ambos lados"¬
-"Breakdown Voltage"¬"Tensión de Ruptura"¬
-"Breakdown voltage"¬"Tensión de Ruptura"¬
-"Breakdown voltage (volts)"¬"Tensión de Ruptura (volts)"¬
-"Brent-Kung Adder"¬"Sumador Brent-Kung"¬
-"Buck Converter"¬"Convertidor Reductor"¬
-"Buck-Boost Converter"¬"Convertidor Elevador-Reductor"¬
-"Butterworth Band-Pass"¬"Butterworth Pasa-Banda"¬
-"Butterworth Band-Stop"¬"Butterworth Bloquea-Banda"¬
-"Butterworth High-Pass"¬"Butterworth Pasa-Alta"¬
-"Butterworth High-Pass (10 pole)"¬"Butterworth Pasa-Alta (10 polos)"¬
-"Butterworth High-Pass w/ Noise"¬"Butterworth Pasa-Alta c/ Ruido"¬
-"Butterworth Low-Pass"¬"Butterworth Pasa-Baja"¬
-"Butterworth Low-Pass (10 pole)"¬"Butterworth Pasa-Bajas (10 pólos)"¬
-"Butterworth Low-Pass w/ Noise"¬"Butterworth Pasa-Bajas c/ Ruido"¬
-"CC2"¬"CC2"¬
-"CCCS"¬"CCCS"¬
-"CCII+"¬"CCII+"¬
-"CCII+ Implementation"¬"Implementación CCII+"¬
-"CCII+~"¬"CCII+~"¬
-"CCII-"¬"CCII-"¬
-"CCII- Implementation"¬"Implementación CCII-"¬
-"CCII-~"¬"CCII-~"¬
-"CCVS"¬"CCVS"¬
-"CGAND"¬"CGAND"¬
-"CGOR"¬"CGOR"¬
-"CMOS"¬"CMOS"¬
-"CMOS Crystal Oscillator"¬"Oscilador a Cristal CMOS"¬
-"CMOS Flip-Flop"¬"Flip-Flop CMOS"¬
-"CMOS Inverter"¬"Inversor CMOS"¬
-"CMOS Inverter (slow transition)"¬"Inversor CMOS (de transicción lenta)"¬
-"CMOS Inverter (w/capacitance)"¬"Inversor CMOS (con condensador)"¬
-"CMOS Master-Slave Flip-Flop"¬"Flip-Flop Master-Slave CMOS"¬
-"CMOS Multiplexer"¬"Multiplexor CMOS"¬
-"CMOS NAND"¬"NAND CMOS"¬
-"CMOS NOR"¬"NOR CMOS"¬
-"CMOS Transmission Gate"¬"Puerta de transmisión CMOS"¬
-"CMOS XOR"¬"XOR CMOS"¬
-"Can't edit this model."¬"No es posible editar este modelo."¬
-"Can't have two input/output nodes connected!"¬"No se puede tener dos nodos entrada/salida conectados!"¬
-"Can't load canvas2svg.js."¬"No se puede cargar canvas2svg.js"¬
-"Can't load circuit list!"¬"La lista de circuitos no se puede cargar!"¬
-"Can't load circuit!"¬"El circuito no se puede cargar!"¬
-"Can't set language"¬"Idioma No disponible"¬
-"Cancel"¬"Cancelar"¬
-"Cannot load: That file is too large!"¬"Imposible cargar: El fichero es demasiado largo!"¬
-"Capacitance (F)"¬"Capacidad (F)"¬
-"Capacitance @ 0V (F)"¬"Capacidad a 0V (F)"¬
-"Capacitance Multiplier"¬"Multiplicador de Capacidad"¬
-"Capacitor"¬"Condensador"¬
-"Capacitor loop with no resistance!"¬"¡Malla con condensador sin resistencia!"¬
-"Caps in Parallel"¬"Condensadores en Paralelo"¬
-"Caps in Series"¬"Condensadores en Serie"¬
-"Caps of Various Capacitances"¬"Condensadores de varias Capacidades"¬
-"Caps w/ Various Frequencies"¬"Condensadores de varias Frecuencias"¬
-"Carrier Frequency (Hz)"¬"Frecuencia de la Portadora (Hz)"¬
-"Cascading Ring Counters"¬"Contadores Anillo en cascada"¬
-"Center Circuit"¬"Centrar el Circuito"¬
-"Center Off"¬"Descolocar"¬
-"Centre Circuit"¬"Centrar el Circuito"¬
-"Change Language"¬"Cambiar Idioma"¬
-"Chaos 1"¬"Caotico 1"¬
-"Chaos 2"¬"Caotico 2"¬
-"Chaotic Circuits"¬"Circuitos Caoticos"¬
-"Chassis"¬"Chasis"¬
-"Chua"¬"Chua"¬
-"Circuits"¬"Ejemplos de Circuitos"¬
-"Class-D Amplifier"¬"Amplificador Classe D"¬
-"Click on the link below to save your image"¬"Hacer click en el link de abajo para guardar la Imagen"¬
-"Clk"¬"Reloj"¬
-"Clocked SR Flip-Flop"¬"Flip-Flop RS Sincronizado"¬
-"Cmd-"¬"Cmd-"¬
-"Coil Resistance (ohms)"¬"resistencia de la Bobina (ohms)"¬
-"Coil Style"¬"Estilo de resistencia"¬
-"Colon"¬"Dos Puntos"¬
-"Colpitts Oscillator"¬"Oscilador Colpitts"¬
-"Comb Filter"¬"Filtro Comb"¬
-"Combinational Logic"¬"Lógica Combinacional"¬
-"Combine"¬"Combinar"¬
-"Combine All"¬"Combinar Todos"¬
-"Common"¬"Común"¬
-"Common Anode"¬"Anodo Común"¬
-"Common Cathode"¬"Catodo Común"¬
-"Common-Emitter Amplifier"¬"Amplificador de Emisor Común"¬
-"Common-Mode Input"¬"Entrada en Modo Común"¬
-"Common-Mode w/Current Source"¬"Fuente de corriente en Modo Común"¬
-"Common-Source Amplifier"¬"Amplificador Fuente-Común"¬
-"Comparator"¬"Comparador"¬
-"Complement (F210)"¬"Complementar (F210)"¬
-"Contents"¬"Contenidos"¬
-"Control Voltage"¬"Tensión de control"¬
-"Conventional Current Motion"¬"Sentido Convencional de la corriente"¬
-"Convergence failed!"¬"No converge!"¬
-"Cooldown Time (s)"¬"tiempo de reposición (s)"¬
-"Copy"¬"Copiar"¬
-"Copy to Clipboard"¬"Copiar al portapapeles"¬
-"Corner For Forward Beta High Current Roll-Off (IKF)"¬"Esquina para bajada de corriente alta beta directa (IKF)"¬
-"Corner For Reverse Beta High Current Roll-Off (IKR)"¬"Esquina para caída de alta corriente beta inversa (IKR)"¬
-"Counter"¬"Contador"¬
-"Counters"¬"Contadores"¬
-"Coupled LC's"¬"LC Acoplado"¬
-"Coupling Coefficient"¬"Coeficiente de Acoplamento"¬
-"Create New Advanced Model"¬"Crear Nuevo modelo avanzado"¬
-"Create New Model"¬"Crear Nuevo modelo"¬
-"Create New Simple Model"¬"Crear Nuevo modelo simple"¬
-"Create Subcircuit..."¬"Crear Sub-circuito..."¬
-"Create short URL"¬"Crear URL corta"¬
-"Critically Damped LRC"¬"RLC Críticamente Amortiguado"¬
-"Crossbar Memory"¬"Memória Crossbar"¬
-"Crossover"¬"Crossover"¬
-"Crystal Oscillator"¬"Oscilador de Cuarzo"¬
-"Ctrl-"¬"Ctrl-"¬
-"Current"¬"corriente"¬
-"Current (A)"¬"corriente (A)"¬
-"Current Amplifier"¬"Amplificador de corriente"¬
-"Current At Above Voltage (A)"¬"Corriente por encima del voltaje (A)"¬
-"Current Circuit:"¬"Circuito Actual:"¬
-"Current Color"¬"Color Actual"¬
-"Current Conveyor"¬"Conversor de corriente"¬
-"Current Differentiator"¬"Diferenciador de corriente"¬
-"Current Integrator"¬"Integrador de corriente"¬
-"Current Mirror"¬"Espejo de corriente"¬
-"Current Ramp"¬"Rampa de corriente"¬
-"Current Required"¬"corriente Necesaria"¬
-"Current Source"¬"Fuente de corriente"¬
-"Current Source Ramp"¬"Generador de Rampa de corriente"¬
-"Current Speed"¬"Velocidad de corriente"¬
-"Current-Controlled Voltage Source"¬"Fuente de Tensión Controlada por corriente"¬
-"Custom Label"¬"Etiqueta Personalizada"¬
-"CustomCompositeElm:"¬"Elm compuesto personalizado:"¬
-"Cut"¬"Cortar"¬
-"D flip-flop"¬"Flip-Flop D"¬
-"D/C"¬"CC"¬
-"DAC"¬"DAC"¬
-"DC Coupled"¬"Corriente Continua Acoplada"¬
-"DC Motor"¬"Motor Corriente Continua"¬
-"DC Offset (V)"¬"Desplazamiento Corriente Continua (V)"¬
-"DC Restoration"¬"Restaurar DC"¬
-"DIAC"¬"DIAC"¬
-"DIAC/TRIAC Dimmer"¬"Dimmer DIAC/TRIAC"¬
-"DTL"¬"DTL"¬
-"DTL Inverter"¬"Inversor DTL"¬
-"DTL NAND"¬"NAND DTL"¬
-"DTL NOR"¬"NOR DTL"¬
-"Darlington Pair"¬"Par Darlington"¬
-"Decimal Counter"¬"Contador Decimal"¬
-"Decimal Point"¬"Punto Decimal"¬
-"Definition"¬"Definición"¬
-"Delay (s)"¬"Atraso (s)"¬
-"Delayed Buffer"¬"Buffer Retardado"¬
-"Delete"¬"Excluir"¬
-"Delta PWM Encoder"¬"Condificador Delta PWM"¬
-"Delta-Sigma ADC"¬"Delta-Sigma ADC"¬
-"Depletion-load NMOS Inverter"¬"Inversor NMOS de carga de agotamiento"¬
-"Description"¬"Descripción"¬
-"Deviation (Hz)"¬"Desvio (Hz)"¬
-"Device has no external inputs/outputs!"¬"Dispositivo sin entradas/Salidas externas!"¬
-"Differential Amplifier"¬"Amplificador Diferencial"¬
-"Differential Amplifiers"¬"Amplificadores Diferenciales"¬
-"Differential Input"¬"Entrada Diferencial"¬
-"Differentiator"¬"Diferenciador"¬
-"Differentiator (inverting)"¬"Diferenciador (invertido)"¬
-"Digital Sine Wave"¬"Onda Senoidal Digital"¬
-"Digital Symbol"¬"Símbolo Digital"¬
-"Diode"¬"Diodo"¬
-"Diode I/V Curve"¬"Curva I/V de Diodo"¬
-"Diode Limiter"¬"Limitador a Diodo"¬
-"Diodes"¬"Diodos"¬
-"Disable Editing"¬"Edición Desactivada"¬
-"Divide-by-2"¬"Dividir por 2"¬
-"Divide-by-3"¬"Dividir por 3"¬
-"Dock Scope"¬"Banco de Osciloscopios"¬
-"Download last played audio"¬"Descargar el último audio reproducido"¬
-"Drag All"¬"Arrastar Todos"¬
-"Drag Column"¬"Arrastar Columna"¬
-"Drag Post"¬"Arrastar Post"¬
-"Drag Row"¬"Arrastar Linea"¬
-"Drag Selected"¬"Arrastar Seleccionado"¬
-"Drag the pins to the desired position"¬"Arrastar conectores para la posición deseada"¬
-"Draw"¬"Dibujar"¬
-"Draw Bar On Top"¬"Dibuja Linea encima"¬
-"Draw Circle"¬"Dibujar Circulo"¬
-"Dropbox links must start https://www.dropbox.com/"¬"Enlaces Dropbox deben empezar con https://www.dropbox.com/"¬
-"Dump Matrix"¬"Volcar Matriz"¬
-"Duplicate"¬"Duplicar"¬
-"Duration (s)"¬"Duracción (s)"¬
-"Duty Cycle"¬"Ciclo Activo"¬
-"Duty cycle"¬"Ciclo Activo"¬
-"Duty cycle "¬"Ciclo Activo "¬
-"Dynamic RAM"¬"RAM Dinámica"¬
-"ECL"¬"ECL"¬
-"ECL NOR/OR"¬"NOR/NOT ECL"¬
-"Early Effect"¬"Efecto Precoz"¬
-"Earth"¬"Tierra"¬
-"Edge-Triggered D Flip-Flop"¬"Flip-Flop D Disparado por flanco"¬
-"Edit"¬"Editar"¬
-"Edit Component"¬"Editar Componente"¬
-"Edit Model"¬"Editar Modelo"¬
-"Edit Pin Layout"¬"Editar diseño de PIN"¬
-"Edit Shortcuts"¬"Editar accesos rápidos"¬
-"Edit Subcircuit Pin Layout"¬"Editar diseño de PIN del subcircuito"¬
-"Edit Values With Mouse Wheel"¬"Editar valores con la rueda del ratón"¬
-"Edit..."¬"Editar..."¬
-"Editing disabled.  Re-enable from the Options menu."¬"Edición desactivada. Activar desde el menú de opciones."¬
-"Emission Coefficient"¬"Coeficiente de Emisión"¬
-"Emitter Follower"¬"Seguidor de Emisor"¬
-"Emitter-Coupled LC Oscillator"¬"Oscilador LC Acoplado por Emisor"¬
-"European Resistors"¬"Símbolo Europeo para Resistencias"¬
-"Exception in stampCircuit()"¬"Excepción en stampCircuit()"¬
-"Exclusive OR"¬"Or Exclusivo"¬
-"Export As Image..."¬"Exportar como Imagen..."¬
-"Export As Link..."¬"Exportar como Link..."¬
-"Export As SVG..."¬"Exportar como SVG..."¬
-"Export As Text..."¬"Exporta en Formato Texto..."¬
-"Export as Image"¬"Exportar como imagen"¬
-"Export as Local File"¬"Exportar como archivo local"¬
-"Export as Text"¬"Exportar como Texto"¬
-"Export as URL"¬"Exportar como URL"¬
-"Extra Segment"¬"Segmento Extra"¬
-"F211"¬"F211"¬
-"F220"¬"F220"¬
-"F221"¬"F221"¬
-"FM Source"¬"Fuente de Señal FM"¬
-"Fan-Out"¬"Fan-Out"¬
-"File"¬"Archivo"¬
-"File Error Response"¬"Respuesta de error de archivo"¬
-"File name:"¬"Nombre archivo:"¬
-"File too large!"¬"Archivo demasiado grande!"¬
-"Find Component"¬"Encontrar Componente"¬
-"Find Component..."¬"Encontrar Componente..."¬
-"Find DC Operating Point"¬"Encontrar Punto de Operación CC"¬
-"Flash ADC"¬"ADC tipo Flash"¬
-"Flip X"¬"Invertir X"¬
-"Flip X/Y"¬"Invertir X/Y"¬
-"Flip Y"¬"Invertir Y"¬
-"Flip-Flops"¬"Flip-Flops"¬
-"Follower"¬"Seguidor"¬
-"Forward Current Emission Coefficient (NF)"¬"Coeficiente de emisión de corriente directa (NF)"¬
-"Forward Early Voltage (VAF)"¬"Tensión temprana directa (VAF)"¬
-"Forward Voltage"¬"Tensión directa"¬
-"Frequency"¬"Frecuencia"¬
-"Frequency (Hz)"¬"Frecuencia (Hz)"¬
-"Frequency Doubler"¬"Dobrador de Frecuencia"¬
-"Friction coefficient (Nms/rad)"¬"Coeficiente de friccion (Nms/rad)"¬
-"Full Adder"¬"Sumador total"¬
-"Full-Wave Rectifier"¬"Retificador de Onda Completa"¬
-"Full-Wave Rectifier w/ Filter"¬"Retificador de Onda Completa c/ Filtro"¬
-"Gain"¬"Ganancia"¬
-"Gate Resistance (ohms)"¬"Resistencia de Puerta (ohms)"¬
-"Gate-MT1 Resistance (ohms)"¬"resistencia de Gate-MT1 (ohms)"¬
-"Gear Ratio"¬"Relación de Rueda"¬
-"Gilbert Cell Multiplier"¬"Multiplicador de Célula Gilbert"¬
-"Gray Code Counter"¬"Contador de Código Gray"¬
-"Green Value (0-1)"¬"Valor Verde (0-1)"¬
-"Grid Height"¬"Altura de la Rejilla"¬
-"Grid Width"¬"Ancho de la Rejilla"¬
-"Ground Pin"¬"Pin a Tierra"¬
-"Gyrator"¬"Girador"¬
-"Half Adder"¬"Semisumador"¬
-"Half-Flash (Subranging) ADC"¬"ADC Semi-Flash (Subranging)"¬
-"Half-Wave Rectifier"¬"Retificador Media-Onda"¬
-"Half-Wave Rectifier (inverting)"¬"Rectificador Media-Onda (inversor)"¬
-"Hard-Switching 1"¬"Hard-Switching 1"¬
-"Hard-Switching 2"¬"Hard-Switching 2"¬
-"Hartley Oscillator"¬"Oscilador Hartley"¬
-"Height"¬"Altura"¬
-"High Voltage"¬"Nível Alto de Tensión"¬
-"High Voltage (V)"¬"Nivel Alto de Tensión (V)"¬
-"High-Pass Filter (RC)"¬"Filtro Pasa-Alta (RC)"¬
-"High-Pass Filter (RL)"¬"Filtro Pasa-Alta (RL)"¬
-"Hold current (amps)"¬"Mantener corriente (amps)"¬
-"Holding Current (A)"¬"corriente de mantanimiento (A)"¬
-"Holding current (A)"¬"corriente de mantanimiento (A)"¬
-"Horizontal Scale"¬"Escala horizontal"¬
-"Howland Current Source"¬"Fuente de corriente Howland"¬
-"I-to-V Converter"¬"Conversor corriente Tensión"¬
-"I/V Curve"¬"Curva I/V"¬
-"I2t"¬"I2t"¬
-"IEC Gates"¬"Puerta tipo IEC"¬
-"IEC Symbol"¬"Símbolo IEC"¬
-"If Rp=RL, then QL=Qu/2"¬"Si Rp=RL, entonces QL=Qu/2"¬
-"Impedance (ohms)"¬"Impedancia (ohms)"¬
-"Impedance Matching (L-Section)"¬"Acople de Impedancia (Sección L)"¬
-"Impedance Matching (Shunt Stub)"¬"Acople de Impedancia (Shunt Stub)"¬
-"Impedances of Same Magnitude"¬"Impedancia Equivalente"¬
-"Import"¬"Importar"¬
-"Import From Dropbox Link"¬"Importar de un link Dropbox"¬
-"Import From Dropbox..."¬"Importar de Dropbox..."¬
-"Import From Text..."¬"Importar de Archivo Texto..."¬
-"Import from Dropbox"¬"Importar de Dropbox"¬
-"Import from Text"¬"Importar del Archivo Texto"¬
-"Improved"¬"Mejorado"¬
-"Inductance (H)"¬"Inductancia (H)"¬
-"Inductive Kickback"¬"Retro Choque Inductivo"¬
-"Inductor"¬"Inductor"¬
-"Inductor Simulator"¬"Simulador de Inductancia"¬
-"Inductors in Parallel"¬"Inductores en Paralelo"¬
-"Inductors in Series"¬"Inductores en Série"¬
-"Inductors of Various Inductances"¬"Inductores de Varias Inductancias"¬
-"Inductors w/ Various Frequencies"¬"Inductores de Varias frecuencias"¬
-"Info Text"¬"Texto Informativo"¬
-"Initial Current (on Reset) (A)"¬"Corriente inicial (al reiniciar) (A)"¬
-"Initial Voltage (on Reset)"¬"Voltaje inicial (al reiniciar)"¬
-"Inputs"¬"entradas"¬
-"Integrator"¬"Integrador"¬
-"Internal Node"¬"Nodo interno"¬
-"Internals"¬"Internos"¬
-"Invert Inputs"¬"Invertir Entradas"¬
-"Invert Reset"¬"Invertir Reinicio"¬
-"Invert Set/Reset"¬"Invertir Fijar/Reiniciar"¬
-"Invert reset pin"¬"Pin de RESET Invertido"¬
-"Inverted Output"¬"Salida Invertida"¬
-"Inverter Amplifier"¬"Amplificador Inversor"¬
-"Inverter Oscillator"¬"Oscilador Inversor"¬
-"Inverter with only MOSFETs"¬"Inversor solo con MOSFETs"¬
-"Inverting Amplifier"¬"Amplificador Inversor"¬
-"JFET Current Source"¬"Fuente de corriente a FET"¬
-"JFET Follower"¬"Seguidor a FET"¬
-"JFET Follower w/zero offset"¬"Seguidor a FET con offset cero"¬
-"JFETs"¬"FET de Unión"¬
-"JK Flip-Flop"¬"Flip-Flop JK"¬
-"JK flip-flop"¬"flip-flop JK"¬
-"JK\q00: No Change"¬"JK\q00: Sin cambio"¬
-"JK\q01: Reset"¬"JK\q01: Reiniciar"¬
-"JK\q10: Set"¬"JK\q10: Fijar"¬
-"JK\q11: Toggle"¬"JK\q11: Alternar"¬
-"Jerk"¬"Impulso"¬
-"Johnson Counter"¬"Contador Johnson"¬
-"Joule Thief"¬"Ladrón de Joule"¬
-"LC Ladder"¬"Diagrama Escada con LC"¬
-"LC Modes (2)"¬"2 Modos de 2 Circuitos LC Acoplados (2)"¬
-"LC Modes (3)"¬"3 Modos de 3 Circuitos LC Acoplados (3)"¬
-"LC Oscillator"¬"Oscilador LC"¬
-"LED"¬"LED"¬
-"LED Array"¬"Matriz de LEDs"¬
-"LED Flasher"¬"LED intermitente"¬
-"LED array"¬"matriz de LEDs"¬
-"LM137000 Gain Oddity"¬"LM137000 Gain Oddity"¬
-"LM324"¬"LM324"¬
-"LM324, fixed"¬"LM324, arreglado"¬
-"LM324, old"¬"LM324, antiguo"¬
-"LM741"¬"LM741"¬
-"LRC Circuit"¬"Circuito RLC"¬
-"Label"¬"Rótulo"¬
-"Lambda Diode"¬"Diodo Lambda"¬
-"Lambda Diode Oscillator"¬"Oscilador a Diodo Lambda"¬
-"Latch"¬"Latch"¬
-"Leading-Edge Detector"¬"Detector de Flanco"¬
-"Light Brightness"¬"Brillo de luz"¬
-"Light Bulb"¬"Lámpara"¬
-"Light Switch"¬"Interruptor de Luz"¬
-"Lissajous Figures"¬"Figuras de Lissajous"¬
-"Load Contents From File"¬"Cargar contenidos desde fichero"¬
-"Load File"¬"Cargar fichero"¬
-"Load Model Circuit"¬"Cargar modelo de circuito"¬
-"Load Subcircuits Only"¬"Cargar solo subcircuitos"¬
-"Log Amplifier"¬"Amplificador Logarítmico"¬
-"Log Spectrum"¬"Espectrómetro Logarítmico"¬
-"Logarithmic"¬"Logarítmico"¬
-"Logic Families"¬"Famílias Lógicas"¬
-"Long-Distance Power Transmission"¬"Transmisión de Potencia a Larga Distancia"¬
-"Low Voltage"¬"Tensión Baja"¬
-"Low Voltage (V)"¬"Nivel Bajo de Tensión (V)"¬
-"Low-Pass Filter"¬"Filtro Pasa-Bajas"¬
-"Low-Pass Filter (RC)"¬"Filtro Pasa-Baja (RC)"¬
-"Low-Pass Filter (RL)"¬"Filtro Pasa-Baja (RL)"¬
-"Low-duty-cycle Oscillator"¬"Oscilador con Bajo Ciclo Activo"¬
-"Lower threshold (V)"¬"Limite Inferior (V)"¬
-"MOSFETs"¬"MOSFETs"¬
-"Majority Logic"¬"Lógica Mayoritaria"¬
-"Manual"¬"Manual"¬
-"Marx Generator"¬"Generador de Marx"¬
-"Master-Slave Flip-Flop"¬"Flip-Flop Master-Slave"¬
-"Matrix error"¬"Error en la Matriz"¬
-"Max Brightness Current (A)"¬"corriente Máxima de Encendido (A)"¬
-"Max Frequency (Hz)"¬"Frecuencia Máxima (Hz)"¬
-"Max Output (V)"¬"Salida Máxima (V)"¬
-"Max Resistance (ohms)"¬"resistencia Máxima (ohm)"¬
-"Max Reverse Voltage"¬"Máxima Tensión Inversa"¬
-"Max Scale"¬"Escala Máxima"¬
-"Max Value"¬"Valor Máximo"¬
-"Max Voltage"¬"Tensión Máxima"¬
-"Memristor"¬"Memristor"¬
-"Memristors"¬"Memristores"¬
-"Min Frequency (Hz)"¬"Frecuencia Mínima (Hz)"¬
-"Min Output (V)"¬"Salida Mínima (V)"¬
-"Min Resistance (ohms)"¬"resistencia Mínima (ohms)"¬
-"Min Value"¬"Valor Mínimo"¬
-"Min Voltage"¬"Tensión Mínima"¬
-"Minimum time step size (s)"¬"Tamaño de intervalo de tiempo mínimo (s)"¬
-"Misc Devices"¬"Colección de Dispositivos"¬
-"Mismatched lines (Pulse)"¬"Lineas incompatibles (Pulso)"¬
-"Mismatched lines (Standing Wave)"¬"Lineas incompatibles (Onda Estacionaria)"¬
-"Missing Pulse Detector"¬"Detector de Pulso Ausente"¬
-"Mobility (um^2/(s*V))"¬"Mobilidad [um^2/(s*V)]"¬
-"Model"¬"Modelo"¬
-"Model Name"¬"Nombre do Modelo"¬
-"Modulus"¬"Módulo"¬
-"Moment of inertia (Kg.m^2)"¬"Momento de inercia (Kg.m^2)"¬
-"Momentary Switch"¬"Pulsador"¬
-"Monostable"¬"Monoestable"¬
-"Monostable Multivib (One-Shot)"¬"Multivibrador Monoestable (Pulso Único)"¬
-"Monostable Multivibrator"¬"Multivibrador Monoestable"¬
-"Multiplexer"¬"Multiplexor"¬
-"Multivibrators"¬"Multivibradores"¬
-"Must restart to set language.  Restart now?"¬"Necesario reiniciar para cambiar idioma. ¿Reiniciar ahora?"¬
-"NAND gate"¬"Puerta NAND"¬
-"NMOS"¬"NMOS"¬
-"NMOS Inverter"¬"Inversor a NMOS"¬
-"NMOS NAND"¬"NAND NMOS"¬
-"NOR gate"¬"Puerta NOR"¬
-"NPN Transistor"¬"Transistor NPN"¬
-"Name"¬"Nombre"¬
-"Need to ground transmission line!"¬"¡Es necesario poner a tierra línea de transmisión!"¬
-"Negative Color"¬"Color Negativo"¬
-"Negative Edge Triggered"¬"Borde activado negativo"¬
-"Negative Impedance Converter"¬"Conversor de Impedancia Negativa"¬
-"Negative Supply Voltage (V)"¬"Tesión de alimentación Negativa (v)"¬
-"New Blank Circuit"¬"Nuevo circuito en blanco"¬
-"New Slider"¬"Nuevo deslizador"¬
-"New Window..."¬"Nueva ventana..."¬
-"No file"¬"Sin archivo"¬
-"Noise"¬"Ruido"¬
-"Nominal Power"¬"Potencia Nominal"¬
-"Nominal Voltage"¬"Tensión Nominal"¬
-"None"¬"Nada"¬
-"None (logic inputs)"¬"Ninguna (entradas lógicas)"¬
-"Noninverting Amplifier"¬"Amplificador No-Inversor"¬
-"Normally closed"¬"Normalmente cerrado"¬
-"Norton's Theorem"¬"Teorema de Norton"¬
-"Not working. You need a browser that supports the CANVAS element."¬"No funcional. Necesitas un explorador que soporte el elemento CANVAS."¬
-"Notch Filter"¬"Filtro Notch"¬
-"Note the difference in gain by a factor of approx. 2 between the switch settings."¬"Observa la diferencia de ganancia en un factor de aprox. 2 entre las configuraciones del conmutador."¬
-"Number of Poles"¬"Número de Pólos"¬
-"Numeric"¬"Numérico"¬
-"OR gate"¬"Puerta OR"¬
-"OTA (LM13700 style)"¬"OTA (Tipo LM13700)"¬
-"OTA Ring Modulator"¬"Modulador en Anillo c/ OTA"¬
-"OTA Single Stage VCF (low pass)"¬"VCF de Único Estado c/ OTA (Pasa-Baja)"¬
-"OTA Voltage Controlled Amplifier (VCA)"¬"Oscilador Controlado por Tensión c/ OTA"¬
-"Off Current (A)"¬"Corriente al apagado (A)"¬
-"Off Delay (s)"¬"Retardo al apagado (s)"¬
-"Off Resistance (ohms)"¬"Resistencia al apagado (ohms)"¬
-"Off resistance (ohms)"¬"Resistencia al apagado (ohms)"¬
-"Ohm's Law"¬"Ley de Ohm"¬
-"On Current (A)"¬"Corriente de conducción (A)"¬
-"On Delay (s)"¬"Retardo de conducción (s)"¬
-"On Resistance (ohms)"¬"Resistencia de conducción (ohms)"¬
-"On resistance (ohms)"¬"Resistencia de conducción (ohms)"¬
-"Op-Amp"¬"Amplificador Operacional"¬
-"Op-Amp Feedback"¬"Amplificador Operacional c/ Realimentado"¬
-"Op-Amps"¬"Amplificadores Operacionales"¬
-"Open Dropbox Chooser"¬"Abrir selector Dropbox"¬
-"Open File..."¬"Abrir Archivo..."¬
-"Operational Transconductance Amplifier (OTA)"¬"Amplificador Operacional de Transcondutancia (OTA)"¬
-"Options"¬"Opciones"¬
-"Oscillators"¬"Osciladores"¬
-"Other Options..."¬"Otras Opciones..."¬
-"Other Passive Circuits"¬"Otros Circuitos Pasivos"¬
-"Output Current Limit (A)"¬"Límite de corriente de Salida (A)"¬
-"Output Function"¬"Función de Salida"¬
-"Output Pulldown Resistance (ohms)"¬"Resistencia pulldown de salida (ohms)"¬
-"Output at F (M\q0)"¬"Salida en F (M\q0)"¬
-"Output at F (M\q1)"¬"Salida en F (M\q1)"¬
-"Outputs"¬"Salidas"¬
-"P2P Voltage"¬"Tensión P2P"¬
-"PISO shift register"¬"Registrador de desplazamiento PISO"¬
-"PNP Transistor"¬"Transistor PNP"¬
-"Parallel Capacitance"¬"Capacitancia Paralela"¬
-"Parallel Resonance"¬"Resonancia Paralela"¬
-"Parallel-In Serial-Out"¬"Entrada Paralela p/ Salida Serial (PISO)"¬
-"Parse error in description"¬"Error al leer descripción"¬
-"Parse error in expression"¬"Error al leer expresión"¬
-"Passive Filters"¬"Filtros Pasivos"¬
-"Paste"¬"Pegar"¬
-"Paste the text file for your circuit here..."¬"Pegar el Archivo texto con el circuito aquí..."¬
-"Path to ground with no resistance!"¬"Camino a tierra sin resistencia!"¬
-"Peak Detector"¬"Detector de Pico"¬
-"Peak to peak"¬"Pico a pico"¬
-"Period"¬"Período"¬
-"Period (s)"¬"Período (s)"¬
-"Phase Comparator (Type II)"¬"Comparador de Fase (Tipo 2)"¬
-"Phase Comparator Internals"¬"Comparador de Fase"¬
-"Phase Offset (degrees)"¬"desplazamiento de Fase (graus)"¬
-"Phase-Locked Loops"¬"Mallas de Captura de Fase"¬
-"Phase-Sequence Network"¬"Red de Secuencia de Fase"¬
-"Phase-Shift Oscillator"¬"Oscilador por desplazamiento de Fase"¬
-"Play Audio"¬"Reproducir Audio"¬
-"Play Once"¬"Reproducir una vez"¬
-"Please enter a model name."¬"Por favor introduce el nombre del modelo."¬
-"Plot X/Y"¬"Diagrama X-Y"¬
-"Plots"¬"Gráficos"¬
-"Position"¬"Posición"¬
-"Positive Color"¬"Color Positivo"¬
-"Positive Edge Triggered"¬"Iniciado por Flanco Positivo"¬
-"Positive Supply Voltage (5-20V)"¬"Voltaje de alimentación Positivo (5-20V)"¬
-"Potentiometer"¬"Resistencia variable"¬
-"Potentiometer Divider"¬"Divisor de Tensión a Resistencia variable"¬
-"Power Brightness"¬"Brillo"¬
-"Power Converters"¬"Convertidor de Potencia"¬
-"Power Factor"¬"Factor de Potencia"¬
-"Power Factor Correction"¬"Correción do Factor de Potencia"¬
-"Primary Inductance (H)"¬"Inductancia Primária (H)"¬
-"Print Circuit"¬"Imprimir Circuito"¬
-"Print..."¬"Imprimir..."¬
-"Priority Encoder"¬"Codificador de Prioridad"¬
-"Properties..."¬"Propiedades..."¬
-"Pulse"¬"Pulso"¬
-"Pulse Sequencer"¬"Sequenciador de Pulso"¬
-"Pulse Width Modulator"¬"Modulador de Longitud de Pulso"¬
-"Pulse width"¬"Ancho de pulso"¬
-"Push-Pull Follower"¬"Seguidor de Emisor Push-Pull"¬
-"QAM-256 Modulator/Demodulator"¬"Modulador/Demodulador QAM-256"¬
-"R-2R Ladder DAC"¬"DAC R-2R"¬
-"RMS Current"¬"corriente RMS"¬
-"RMS Voltage"¬"Tensión RMS"¬
-"RTL"¬"RTL"¬
-"RTL Inverter"¬"Inversor RTL"¬
-"RTL NAND"¬"NAND RTL"¬
-"RTL NOR"¬"NOR RTL"¬
-"Range for voltage color (V)"¬"Banda p/ Colores de Tensión (V)"¬
-"Ratio"¬"Razón"¬
-"Re-Import"¬"Importar nuevamente"¬
-"Recover Auto-Save"¬"Recuperar AutoSalvado"¬
-"Red Value (0-1)"¬"Valor en Rojo (0-1)"¬
-"Redo"¬"Rehacer"¬
-"Relaxation Oscillator"¬"Oscilador de Relajación"¬
-"Relay"¬"Relé"¬
-"Relay AND"¬"AND a Relé"¬
-"Relay Counter"¬"Contador a Relé"¬
-"Relay Flip-Flop"¬"Flip-Flop a Relé"¬
-"Relay Mux"¬"Mux a Relé"¬
-"Relay OR"¬"OR a Relé"¬
-"Relay Oscillator"¬"Oscilador a Relé"¬
-"Relay Toggle Flip-Flop"¬"Flip-Flop T a Relé"¬
-"Relay XOR"¬"XOR a Relé"¬
-"Relays"¬"Relés"¬
-"Remove Plot"¬"Borrar Gráfico"¬
-"Remove Scope"¬"Borrar Scope"¬
-"Repeat"¬"Repetir"¬
-"Reset"¬"Reiniciar"¬
-"Reset Pin"¬"Pin de RESET"¬
-"Reset Position"¬"Reiniciar posición"¬
-"Resistance"¬"resistencia"¬
-"Resistance (ohms)"¬"resistencia (ohms)"¬
-"Resistor Cube"¬"Cubo de Resistencias"¬
-"Resistor Grid"¬"Rejilla de Resistencias"¬
-"Resistor Grid 2"¬"Rejilla de Resistencias 2"¬
-"Resistors"¬"Resistencias"¬
-"Retriggerable"¬"Re-Triggerable"¬
-"Reverse Beta (BR)"¬"Beta inversa (BR)"¬
-"Reverse Current Emission Coefficient (NR)"¬"Coeficiente de emisión de corriente inversa (NR)"¬
-"Reverse Early Voltage (VAR)"¬"Voltaje inicial inverso (VAR)"¬
-"Ring Modulator"¬"Modulador en Anillo"¬
-"Rossler"¬"Rossler"¬
-"Run&nbsp;/&nbsp;<strong>STOP</strong>"¬"Encender&nbsp;/&nbsp;<strong>Parar</strong>"¬
-"S3S2S1S0"¬"S3S2S1S0"¬
-"SCR"¬"SCR"¬
-"SEPIC Converter"¬"Conversor SEPIC"¬
-"SIPO shift register"¬"registrador de desplazamiento SIPO"¬
-"SR Flip-Flop"¬"Flip-Flop RS"¬
-"Sample Length (s)"¬"Longitud de muestra (s)"¬
-"Sample-and-Hold"¬"Muestra-y-Retención"¬
-"Sampling Rate"¬"Tasa de Muestreado"¬
-"Saturation Current"¬"corriente de Saturación"¬
-"Save"¬"Guardar"¬
-"Save Across Sessions"¬"Guardar entre sesiones"¬
-"Save As..."¬"Salvar como..."¬
-"Save as Default"¬"Salvar por defecto"¬
-"Sawtooth"¬"Diente de Sierra"¬
-"Sawtooth Generator"¬"Generador Diente de Sierra"¬
-"Sawtooth Oscillator"¬"Oscilador Diente de Sierra"¬
-"Sawtooth Wave Generator"¬"Generador de Onda Diente de Sierra"¬
-"Scale"¬"Escala"¬
-"Scale Factor"¬"Factor de escala"¬
-"Schmitt"¬"Schmitt"¬
-"Schmitt Inputs"¬"Entradas Schmitt"¬
-"Schmitt Trigger"¬"Schmitt Trigger"¬
-"Schmitt Trigger (inverting)"¬"Schmitt Trigger (inversor)"¬
-"Schmitt Trigger~"¬"Schmitt Trigger~"¬
-"Schottky"¬"Schottky"¬
-"Scope"¬"Ámbito"¬
-"Scope Properties"¬"Propiedades del Osciloscopio"¬
-"Scopes"¬"Osciloscopios"¬
-"Segments"¬"Segmentos"¬
-"Select"¬"Seleccionar"¬
-"Select All"¬"Seleccionar Todo"¬
-"Select/Drag Sel"¬"Seleccionar/Arrastar"¬
-"Selection Color"¬"Selección de color"¬
-"Separate All"¬"Separar todos"¬
-"Sequence"¬"Secuencia"¬
-"Sequential Logic"¬"Lógica Sequencial"¬
-"Serial-In Parallel-Out"¬"Entrada Seria p/ Salida Paralela (SIPO)"¬
-"Series Capacitance (F)"¬"Capaditor en serie"¬
-"Series Resistance"¬"Resistencia en serie"¬
-"Series Resonance"¬"Resonancia en serie"¬
-"Series/Parallel"¬"Serie/Paralelo"¬
-"Set Pin"¬"Pin de Selección"¬
-"Set R1 to these"¬"Definir R1 para estos"¬
-"Shift Registers"¬"Registradores de desplazamiento"¬
-"Shortcuts..."¬"Accesos rápidos..."¬
-"Show Average"¬"Mostrar Media"¬
-"Show Box"¬"Mostrar Caja"¬
-"Show Bulk"¬"Mostrar Todo"¬
-"Show Current"¬"Mostrar corriente"¬
-"Show Cursor Cross Hairs"¬"Mostrar Cursor en Cruz"¬
-"Show Duty Cycle"¬"Mostrar Ciclo Activo"¬
-"Show Extended Info"¬"Mostrar información extendida"¬
-"Show Frequency"¬"Mostrar Frecuencia"¬
-"Show Ib"¬"Mostrar Ib"¬
-"Show Ic"¬"Mostrar Ic"¬
-"Show Ie"¬"Mostrar Ie"¬
-"Show Info"¬"Mostrar Parámetros del Gráfico"¬
-"Show Negative Peak Value"¬"Mostrar Valor de Pico Negativo"¬
-"Show Peak Value"¬"Mostrar Valor de Pico"¬
-"Show Power"¬"Mostrar Potencia"¬
-"Show Power Consumed"¬"Mostrar Potencia Consumida"¬
-"Show RMS Average"¬"Mostrar Valor RMS"¬
-"Show Resistance"¬"Mostrar resistencia"¬
-"Show Scale"¬"Mostrar Escala"¬
-"Show Spectrum"¬"Mostrar Espectro"¬
-"Show V vs I"¬"Mostrar V frente a I"¬
-"Show Value"¬"Mostrar Valor"¬
-"Show Values"¬"Mostrar Valores"¬
-"Show Vbc"¬"Mostrar Vbc"¬
-"Show Vbe"¬"Mostrar Vbe"¬
-"Show Vce"¬"Mostrar Vce"¬
-"Show Vce vs Ic"¬"Mostrar Vce vs Ic"¬
-"Show Voltage"¬"Mostrar Tensión"¬
-"Side 1"¬"Lado 1"¬
-"Side 2"¬"Lado 2"¬
-"Signal"¬"Señal"¬
-"Signal Frequency (Hz)"¬"Frecuencia de la Señal (Hz)"¬
-"Silicon-Controlled Rectifiers"¬"Retificadores Controlados a Silício"¬
-"Simple TL"¬"LT Simples"¬
-"Simple, with distortion"¬"Simples, con distorsión"¬
-"Simulate Body Diode"¬"Simular Diodo del Substrato"¬
-"Simulated load"¬"Carga simulada"¬
-"Simulation Speed"¬"Velocidad de Simulación"¬
-"Sine Wave"¬"Onda Senoidal"¬
-"Sine Wave Generator"¬"Generador de Onda Senoidal"¬
-"Singular matrix!"¬"Matriz Singular!"¬
-"Size"¬"Tamaño"¬
-"Slew Rate (V/ns)"¬"Velocidad de Respuesta (V/ns)"¬
-"Slew Rate (V/usec)"¬"Velocidad de Respuesta (V/usec)"¬
-"Slider Text"¬"Texto del control Deslizante"¬
-"Sliders..."¬"Controles deslizantes..."¬
-"Small Grid"¬"Rejilla Pequeña"¬
-"Some nodes are unconnected!"¬"Algunos nodos no estan conectados!"¬
-"Source Follower"¬"Seguidor de fuente"¬
-"Spark Gap"¬"Descargador de V"¬
-"Spike Generator"¬"Generador de Impulso"¬
-"Split Wire"¬"Conexión Dividida"¬
-"Square Wave"¬"Onda Cuadrada"¬
-"Square Wave Generator"¬"Generador de Onda Cuadrada"¬
-"Stable Voltage"¬"Tensión Estable"¬
-"Stack"¬"Aplicar"¬
-"Stack All"¬"Apilar Todos"¬
-"Standing Wave"¬"Onda Estacionaria"¬
-"Start Position (s)"¬"Posición de Partida(s)"¬
-"Static RAM"¬"RAM Estática"¬
-"Step-Down Transformer"¬"Trasformador Reductor"¬
-"Step-Up Transformer"¬"Trasformador Elevador"¬
-"Strobe Pin"¬"Pin Strobo"¬
-"Stub Frequency Response"¬"Respuesta en Frequencia Stub"¬
-"Summing Amplifier"¬"Amplifidor Sumador"¬
-"Swap D/S"¬"Cambiar D con S"¬
-"Swap E/C"¬"Cambiar E con C"¬
-"Swap Inputs"¬"Permutar Entradas"¬
-"Swap Secondary Polarity"¬"Permutar Polaridad Secundaria"¬
-"Swap Terminals"¬"Permutar terminales"¬
-"Sweep Time (s)"¬"tiempo de Barrido (s)"¬
-"Switch"¬"Interruptor"¬
-"Switch Group"¬"Grupo de Interruptor"¬
-"Switch in lower position - configuration used on LM13700 data sheet"¬"Interruptor en posición inferior - configuración usada en las especificaciones de LM13700"¬
-"Switch in upper position - normal configuration for LM13700"¬"Interrputor en posición superior - configuración normal para LM13700"¬
-"Switch-Tree DAC"¬"DAC Switch-Tree"¬
-"Switchable Filter"¬"Filtro Conmutable"¬
-"Switched-Capacitor Filter"¬"Filtro Switched-Capacitor"¬
-"Switching Time (s)"¬"Tiempo de conmutación (s)"¬
-"Symbol"¬"Símbolo"¬
-"Synchronous Counter"¬"Contador Síncrono"¬
-"T flip-flop"¬"Flip-Flop T"¬
-"TRIAC"¬"TRIAC"¬
-"TTL"¬"TTL"¬
-"TTL Inverter"¬"Inversor TTL"¬
-"TTL NAND"¬"NAND TTL"¬
-"TTL NOR"¬"NOR TTL"¬
-"Temperature"¬"Temperatura"¬
-"Termination"¬"Terminación"¬
-"Ternary"¬"Ternario"¬
-"Tesla Coil"¬"Bobina de Tesla"¬
-"Test Point"¬"Punto de Test"¬
-"Text"¬"Texto"¬
-"Text file for this circuit is..."¬"El archivo de texto para este circuito es..."¬
-"Thevenin's Theorem"¬"Teorema de Thevenin"¬
-"This model cannot be modified.  Change the model name to allow customization."¬"Este modelo no puede ser modificado. Cambia el nombre de modelo para permitir personalización."¬
-"This site, or your browser doesn't support the Dropbox chooser so you can't pick a file from your dropbox account."¬"Este sitio o su navegador No soporta o selector de Dropbox. Portanto, No és posible bajar un Archivo de su cuenta del Dropobox."¬
-"Threshold"¬"Umbral"¬
-"Threshold (V)"¬"Umbral (V)"¬
-"Threshold Voltage"¬"Tensión umbral"¬
-"Time step size (s)"¬"Tamaño del intervalo de tiempo (s)"¬
-"To open a file in your dropbox account using the chooser click below."¬"Para abrir un Archivo de su cuenta Dropbox usando el selector, pulsar abajo."¬
-"To open a shared Dropbox file from a Dropbox link paste the link below..."¬"Para abrir un Archivo del Dropbox pegar el link abajo..."¬
-"Toggle Dev Tools"¬"Alternar herramientas de desarrollo"¬
-"Toggle Full Screen"¬"Alternar a pantalla completa"¬
-"Torque constant (Nm/A)"¬"Constante de par (Nm/A)"¬
-"Total Width (nm)"¬"Longitud Total (nm)"¬
-"Traffic Light"¬"Semáforo"¬
-"Transformer"¬"Trasformador"¬
-"Transformer w/ DC"¬"Trasformador c/ CC"¬
-"Transformers"¬"Trasformadores"¬
-"Transistors"¬"Transistor"¬
-"Transmission Lines"¬"Lineas de Transmisión"¬
-"Transmission line delay too large!"¬"¡Retraso elevado en la línea de transmisión!"¬
-"Transport Saturation Current (IS)"¬"Corriente de Saturación Transportada (IS)"¬
-"Trapezoidal Approximation"¬"Aproximación Trapezoidal"¬
-"Triangle"¬"Triangulo"¬
-"Triangle VCO"¬"VCO Triangulo"¬
-"Triangle Wave"¬"Onda Triangular"¬
-"Triangle Wave Generator"¬"Generador de Onda Triangular"¬
-"Triangle-to-Sine Converter"¬"Conversor Triangular-Senoidal"¬
-"Trigger Current (A)"¬"corriente de Disparo (A)"¬
-"Trigger Type"¬"Tipo de Disparo"¬
-"Triode"¬"Triodo"¬
-"Triodes"¬"Triodos"¬
-"True RMS Converter"¬"Conversor True RMS"¬
-"Tunnel Diodes"¬"Diodo Túnel"¬
-"Twin-T Filter"¬"Filtro Duplo T"¬
-"Type I PLL"¬"PLL Tipo I"¬
-"Type II PLL"¬"PLL Tipo II"¬
-"Type II PLL (fast)"¬"PLL Tipo II (veloz)"¬
-"URL for this circuit is..."¬"La URL para este circuito es..."¬
-"Undo"¬"Deshacer"¬
-"Undock Scope"¬"Mover Diagrama"¬
-"Undocked Scope"¬"Diagrama Desacoplado"¬
-"Unijunction Oscillator"¬"Oscilador Uniunión"¬
-"Unity-Gain Phase Splitter"¬"Divisor de Fase con ganancia Unitaria"¬
-"Universal"¬"Universal"¬
-"Unstack"¬"Desapilar"¬
-"Unstack All"¬"Desapilar Todos"¬
-"Up/Down"¬"Arriba/Abajo"¬
-"Up/Down Counter"¬"Contador Arriba/Abajo"¬
-"Up/Down Pin"¬"Pin Arriba/Abajo"¬
-"Upper threshold (V)"¬"Umbral Superior (V)"¬
-"Use New Model"¬"Usar Nuevo Modelo"¬
-"VCCS"¬"VCCS"¬
-"VCCS~"¬"VCCS~"¬
-"VCO"¬"VCO"¬
-"VCVS"¬"VCVS"¬
-"VCVS High-Pass Filter"¬"Filtro Pasa-Alta VCVS"¬
-"VCVS Low-Pass Filter"¬"Filtro Pasa-Baja VCVS"¬
-"Value"¬"Valor"¬
-"Varactor"¬"Varicap"¬
-"Variable Current"¬"Corriente Variable"¬
-"Variable V/I"¬"V/I Variable"¬
-"Vertical Scale"¬"Escala Vertical"¬
-"View in New Scope"¬"Ver en Nuevo Diagrama"¬
-"View in New Undocked Scope"¬"Ver en Nuevo Diagrama Desacoplado"¬
-"Vilnius"¬"Vilnius"¬
-"Voltage"¬"Tensión"¬
-"Voltage Divider"¬"Divisor de Tensión"¬
-"Voltage Doubler"¬"Duplicador de Tensión"¬
-"Voltage Doubler 2"¬"Duplicador de Tensión 2"¬
-"Voltage Inverter"¬"Inversor de Tensión"¬
-"Voltage Multipliers"¬"Multplicadores de Tensión"¬
-"Voltage Quadrupler"¬"Cuadriplicador de Tensión"¬
-"Voltage Reference"¬"Referencia de Tensión"¬
-"Voltage Reference w/ Follower"¬"Referencia de Tensión c/ Transistor en Configuración de Seguidor de Emisor"¬
-"Voltage Regulator"¬"Regulador de Tensión"¬
-"Voltage Tripler"¬"Triplicador de Tensión"¬
-"Voltage source/wire loop with no resistance!"¬"¡Fuente de Tensión/corto-circuito!"¬
-"Voltage-Controlled Oscillator"¬"Oscilador Controlado por Tensión"¬
-"Volume Control"¬"control de Volume"¬
-"Waiting for short URL for web service..."¬"Aguardando por um URL para web service..."¬
-"Warmup Time (s)"¬"tiempo de Calentamiento (s)"¬
-"Warning: this URL is longer than 2000 characters and may not work in some browsers."¬"Atención: URL mayor de 2.000 caracteres y puede no funcionar en algunos navegadores."¬
-"Waveform"¬"Forma de Onda"¬
-"Waveform Clipper"¬"Limitador de Forma de Onda"¬
-"Weak Coupling"¬"Acoplamento Débil"¬
-"Wheatstone Bridge"¬"Puente de Wheatstone"¬
-"White Background"¬"Fondo en Blanco"¬
-"Width"¬"Longitud"¬
-"Width of Doped Region (nm)"¬"Longitud de la Región Dopada (nm)"¬
-"Wien Bridge Oscillator"¬"Oscilador Puente de Wien"¬
-"X-Y Plots"¬"Gráficos X-Y"¬
-"XOR Phase Detector"¬"Detector de Fase XOR"¬
-"XOR gate"¬"Puerta XOR"¬
-"You can open a shared Dropbox file if you have a link. Paste the Dropbox link below..."¬"Usted puede abrir um Archivo compartilhado no Dropbox se Usted possui este link. pegar abajo o link do Dropbox..."¬
-"Zener Diodes"¬"Diodo Zener"¬
-"Zener diode"¬"Diodo zener"¬
-"Zoom 100%"¬"Zoom 100%"¬
-"Zoom In"¬"Más Zoom"¬
-"Zoom Out"¬"Menos Zoom"¬
-"analog switch"¬"Interruptor analógico"¬
-"analog switch (SPDT)"¬"Interruptor analógico (SPDT)"¬
-"audio input"¬"entrada de áudio"¬
-"audio output"¬"Salida de áudio"¬
-"behavior"¬"comportamiento"¬
-"buffer"¬"buffer"¬
-"capacitor"¬"Condensador"¬
-"capacitor (polarized)"¬"Condensador (polarizado)"¬
-"capacitor exceeded max reverse voltage"¬"¡Excedida la Tensión inversa máxima aplicable al condensador!"¬
-"chip"¬"circuito integrado"¬
-"clk"¬"Reloj"¬
-"closed"¬"cerrado"¬
-"coil I"¬"resistencia I"¬
-"coil Vd"¬"resistencia Vd"¬
-"control"¬"control"¬
-"crystal"¬"cristal"¬
-"current source"¬"Fuente de corriente"¬
-"custom logic"¬"lógica personalizada"¬
-"cutoff"¬"cutoff"¬
-"darlington pair"¬"par darlington"¬
-"data"¬"Datos"¬
-"data export"¬"exportar Datos"¬
-"data in"¬"entrada de datos"¬
-"data input"¬"entrada de datos"¬
-"data out"¬"salida de datos"¬
-"decimal display"¬"display decimal"¬
-"decimalDigits"¬"dígitos decimales"¬
-"decimalDigitsShort"¬"dígitos decimales cortos"¬
-"delay = "¬"atraso = "¬
-"demultiplexer"¬"Demultiplexor"¬
-"diode"¬"diodo"¬
-"direct"¬"directo"¬
-"discharge"¬"descarga"¬
-"exportaslocalfile"¬"exportar como fichero local"¬
-"ext"¬"externo"¬
-"ext. voltage"¬"voltaje externo"¬
-"f.3db = "¬"f.3dB = "¬
-"failed file reading"¬"fallo al leer el fichero"¬
-"false"¬"falso"¬
-"fc = "¬"fc = "¬
-"for interesting"¬"de interés"¬
-"fuse"¬"fusible"¬
-"fuse (blown)"¬"fusible (quemado)"¬
-"fwd active"¬"Región activa"¬
-"general purpose"¬"uso general"¬
-"germanium"¬"germanio"¬
-"ground"¬"Tierra - Masa"¬
-"hello"¬"escribir texto"¬
-"high"¬"alto"¬
-"hold state"¬"estado de Retención"¬
-"in 1"¬"entrada 1"¬
-"in 2"¬"entrada 2"¬
-"inductor"¬"Inductor"¬
-"infinite transistor current"¬"corriente infinita del transistor"¬
-"input"¬"entrada"¬
-"inputs"¬"entradas"¬
-"inverter"¬"inversor"¬
-"inverting Schmitt trigger"¬"disparador Schmitt invertido"¬
-"kg1"¬"kg1"¬
-"lamp"¬"lámpara"¬
-"last"¬"último"¬
-"linear"¬"lineal"¬
-"load"¬"carga Eléctrica"¬
-"load data"¬"cargar Datos"¬
-"load/shift"¬"carga/desplazamiento"¬
-"logic input"¬"entrada lógica"¬
-"logic output"¬"Salida lógica"¬
-"low"¬"low"¬
-"master"¬"maestro"¬
-"max current exceeded"¬"excedida la corriente máxima"¬
-"melted"¬"fundido"¬
-"memristor"¬"memristor"¬
-"n-MOSFET"¬"n-MOSFET"¬
-"nan/infinite matrix!"¬"NaN/matriz infinita!"¬
-"no file loaded"¬"no hay fichero cargado"¬
-"noise gen"¬"generador de ruido"¬
-"normal"¬"+Z"¬
-"normal "¬"normal"¬
-"off"¬"off"¬
-"ohmmeter"¬"ohmímetro"¬
-"old model"¬"modelo antiguo"¬
-"op-amp"¬"amplificador operacional"¬
-"open"¬"abierto"¬
-"optocoupler"¬"Acoplador Óptico"¬
-"or other values"¬"u otros valores"¬
-"output"¬"Salida"¬
-"p-MOSFET"¬"p-MOSFET"¬
-"parallel in 0"¬"paralelo en 0"¬
-"parallel in 1"¬"paralelo en 1"¬
-"parallel in 2"¬"paralelo en 2"¬
-"parallel in 3"¬"paralelo en 3"¬
-"phase comparator"¬"comparador de fase"¬
-"photoresistor"¬"fotoresistor"¬
-"potentiometer"¬"Resistencia variable"¬
-"pulse gen"¬"Generador de pulso"¬
-"push switch (SPST)"¬"Chave Push-Button (SPST)"¬
-"refresh"¬"refresh"¬
-"relay"¬"relé"¬
-"res.f = "¬"f0 = "¬
-"reset"¬"reiniciar"¬
-"resistor"¬"resistor"¬
-"reverse active"¬"reversa activa"¬
-"ring counter"¬"contador en Anillo"¬
-"rms"¬"rms"¬
-"row select"¬"Seleccionar Linea"¬
-"sample"¬"muestra"¬
-"saturation"¬"saturación"¬
-"save"¬"Guardar"¬
-"saveas"¬"Guardar como"¬
-"sawtooth gen"¬"Generador de Diente de Sierra"¬
-"select"¬"seleccionar"¬
-"sequence generator"¬"generador de secuencia"¬
-"serial in left"¬"serie a izquierdas"¬
-"serial in right"¬"serie a derechas"¬
-"set"¬"fijar"¬
-"set/reset"¬"fijar/reiniciar"¬
-"shift left"¬"Desplazar a la izquierda"¬
-"shift right"¬"desplazar a la derecha"¬
-"showelminfo"¬"mostrar información elm"¬
-"slave"¬"esclavo"¬
-"spark gap"¬"espaciado de chispa"¬
-"speed"¬"velocidad"¬
-"square wave gen"¬"generador de onda cuadrada"¬
-"stop trigger"¬"parar disparador"¬
-"switch (SPST)"¬"conmutador (SPST)"¬
-"switching"¬"conmutando"¬
-"thermistor"¬"termistor"¬
-"threshold"¬"umbral"¬
-"time delay relay"¬"relé de retardo de tiempo"¬
-"time step = "¬"intervalo tiempo = "¬
-"toggle"¬"alternar"¬
-"transformer"¬"transformador"¬
-"transformer (custom)"¬"transformador (personalizado)"¬
-"transistor"¬"transistor"¬
-"transmission line"¬"linea de transmisión"¬
-"tri-state buffer"¬"buffer tri-estado"¬
-"triangle gen"¬"generador triangular"¬
-"trigger"¬"disparador"¬
-"triode"¬"triodo"¬
-"tunnel diode"¬"diodo túnel"¬
-"unexpected end of input"¬"final de la entrada inesperado"¬
-"unijunction transistor"¬"transistor uniunión"¬
-"varactor"¬"varicap"¬
-"voltage source"¬"fuente de tensión"¬
-"voltmeter"¬"voltímetro"¬
-"wattmeter"¬"watimetro"¬
-"wire"¬"cable"¬
-"wire loop detected"¬"corto-circuito"¬
-"write"¬"escribir"¬
-"~lm317-dz 0 1e-14 0 1 6.3 0"¬"~lm317-dz 0 1e-14 0 1 6.3 0"¬
-"~lm317-qnl-A0.2 0 2e-17 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qnl-A0.2 0 2e-17 0 0 1.5 0 0 2 1 1 0 0 1"¬
-"~lm317-qnl-A2 0 2e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qnl-A2 0 2e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬
-"~lm317-qnl-A5 0 5e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qnl-A5 0 5e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬
-"~lm317-qnl-A50 0 5e-15 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qnl-A50 0 5e-15 0 0 1.5 0 0 2 1 1 0 0 1"¬
-"~lm317-qpl-A0.1 0 1e-17 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qpl-A0.1 0 1e-17 0 0 1.5 0 0 2 1 1 0 0 1"¬
-"~lm317-qpl-A0.2 0 2e-17 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qpl-A0.2 0 2e-17 0 0 1.5 0 0 2 1 1 0 0 1"¬
-"~lm317-qpl-A2 0 2e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qpl-A2 0 2e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬
-"~tl431ed-d_ed 0 1e-14 5 1 0 0"¬"~tl431ed-d_ed 0 1e-14 5 1 0 0"¬
-"~tl431ed-qn_ed 0 1e-16 0 0 1.5 0 0 2 1 1 0.0125 0.02 1"¬"~tl431ed-qn_ed 0 1e-16 0 0 1.5 0 0 2 1 1 0.0125 0.02 1"¬
-"~tl431ed-qn_ed-A0.5 0 5e-17 0 0 1.5 0 0 2 1 1 0 0 1"¬"~tl431ed-qn_ed-A0.5 0 5e-17 0 0 1.5 0 0 2 1 1 0 0 1"¬
-"~tl431ed-qn_ed-A1.2 0 1.2e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~tl431ed-qn_ed-A1.2 0 1.2e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬
-"~tl431ed-qn_ed-A2.2 0 2.2000000000000002e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~tl431ed-qn_ed-A2.2 0 2.2000000000000002e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬
-"~tl431ed-qn_ed-A5 0 5e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~tl431ed-qn_ed-A5 0 5e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬
-"~tl431ed-qp_ed 0 1e-16 0 0 1.5 0 0 2 1 1 0.014285714285714285 0.025 1"¬"~tl431ed-qp_ed 0 1e-16 0 0 1.5 0 0 2 1 1 0.014285714285714285 0.025 1"¬
-"Ćuk Converter"¬"Ćuk Convertidor"¬
+" (mod "¬" (mod "¬" (mod "
+" bad connection"¬" conexión incorrecta"¬" connexió incorrecta"
+" bad connections"¬" conexiones incorrectas"¬" connexions incorrectes"
+"# of Address Bits"¬"Número de Bits de Dirección"¬"Nombre de Bits de Direcció"
+"# of Bits"¬"Número de Bits"¬"Nombre de Bits"
+"# of Data Bits"¬"Número de Bits de Datos"¬"Nombre de Bits de Dades"
+"# of Data Points"¬"Número de Puntos de Datos"¬"Nombre de Punts de Dades"
+"# of Decimal Digits (long format)"¬"Número de Dígitos Decimales (formato largo)"¬"Nombre de Dígits Decimals (format llarg)"
+"# of Decimal Digits (short format)"¬"Número de Dígitos Decimales (formato corto)"¬"Nombre de Dígits Decimals (format curt)"
+"# of Inputs"¬"Número de Entradas"¬"Nombre d'Entrades"
+"# of Select Bits"¬"Número de Bits de Selección"¬"Nombre de Bits de Selecció"
+"# of Throws"¬"Número de Tentativas"¬"Nombre de Temptatives"
+"#.##E000"¬"#.##E000"¬"#.##E000"
+"&nbsp;</div>Active Building Blocks"¬"&nbsp;</DIV>BLoques de Construcción Activos"¬"&nbsp;</DIV>Blocs de Construcció Actius"
+"&nbsp;</div>Active Components"¬"&nbsp;</DIV>Componentes Activos"¬"&nbsp;</DIV>Components Actius"
+"&nbsp;</div>Analog and Hybrid Chips"¬"&nbsp;</DIV>Circuitos Integrados Analógicos e Híbridos"¬"&nbsp;</DIV>Circuits Integrats Analògics i Híbrids"
+"&nbsp;</div>Digital Chips"¬"&nbsp;</DIV>Circuitos Integrados Digitales"¬"&nbsp;</DIV>Circuits Integrats Digitals"
+"&nbsp;</div>Drag"¬"&nbsp;</DIV>Arrastar"¬"&nbsp;</DIV>Arrossega"
+"&nbsp;</div>Inputs and Sources"¬"&nbsp;</DIV>Entradas y Fuentes"¬"&nbsp;</DIV>Entrades i Fonts"
+"&nbsp;</div>Logic Gates, Input and Output"¬"&nbsp;</DIV>Puertas Lógicas, Entrada y Salida"¬"&nbsp;</DIV>Portes Lògiques, Entrada i Eixida"
+"&nbsp;</div>Outputs and Labels"¬"&nbsp;</DIV>Salidas y Etiquetas"¬"&nbsp;</DIV>Eixides i Etiquetes"
+"&nbsp;</div>Passive Components"¬"&nbsp;</DIV>Componentes Pasivos"¬"&nbsp;</DIV>Components Passius"
+"&nbsp;</div>Subcircuits"¬"&nbsp;</div>Subcircuitos"¬"&nbsp;</div>Subcircuits"
+"(A-Cmd-drag)"¬"Alt+Cmd+arrastar"¬"Alt+Cmd+arrossegar"
+"(A-M-drag)"¬"Alt+M+arrastar"¬"Alt+M+arrossegar"
+"(A-S-drag)"¬"Alt+Shift+arrastar"¬"Alt+Shift+arrossegar"
+"(Alt-drag)"¬"Alt+arrastar"¬"Alt+arrossegar"
+"(no change)"¬"(Ningún cambio)"¬"(Cap canvi)"
+"(saved)"¬"(guardado)"¬"(guardat)"
+"(space or Shift-drag)"¬"(espacio o shift+arrastar)"¬"(espai o shift+arrossegar)"
+"0"¬"0"¬"0"
+"1"¬"1"¬"1"
+"11"¬"11"¬"11"
+"110"¬"110"¬"110"
+"1-of-4 Decoder"¬"Decodificador 1:4"¬"Descodificador 1:4"
+"1001"¬"1001"¬"1001"
+"1010"¬"1010"¬"1010"
+"1011"¬"1011"¬"1011"
+"1100"¬"1100"¬"1100"
+"1110"¬"1110"¬"1110"
+"1111"¬"1111"¬"1111"
+"14 Segment"¬"14 Segmentos"¬"14 Segments"
+"16 Segment"¬"16 Segmentos"¬"16 Segments"
+"2-Bit Comparator"¬"Comparador de 2 bits"¬"Comparador de 2 bits"
+"2-to-1 Mux"¬"Multiplexor 2:1"¬"Multiplexor 2:1"
+"3- and 4-Way Light Switches"¬"Interruptor 3 y 4-Vías"¬"Interruptor 3 i 4-Vies"
+"3-Way Light Switches"¬"Interruptor de Luz 3-Way"¬"Interruptor de Llum 3-Way"
+"4-Bit Ripple Counter"¬"Contador de Pulsos de 4 Bits"¬"Comptador de Polsos de 4 Bits"
+"555 Timer"¬"Temporizador 555"¬"Temporitzador 555"
+"555 Timer Chip"¬"Temporizador CI 555"¬"Temporitzador CI 555"
+"7 Segment"¬"7 Segmentos"¬"7 Segments"
+"7-Segment Decoder"¬"Decodificador 7 Segmentos"¬"Descodificador 7 Segments"
+"7-Segment LED Decoder"¬"Decodificador de Display de 7 Segmentos"¬"Descodificador de Display de 7 Segments"
+"741 (inverting amplifier)"¬"741 (amplificador inversor)"¬"741 (amplificador inversor)"
+"741 Current Limits"¬"741 (limites de corriente de Salida)"¬"741 (límits de corrent d'Eixida)"
+"741 Internals"¬"Circuito Interno de 741"¬"Circuit Intern de 741"
+"741 Slew Rate"¬"Velocidade de Respuesta de Salida de 741"¬"Velocitat de Resposta d'Eixida de 741"
+"74181 ALU"¬"74181 ALU"¬"74181 ALU"
+"8-Bit Ripple Counter"¬"Contador de Pulsos de 8 Bit"¬"Comptador de Polsos de 8 Bit"
+"<Strong>RUN</Strong>&nbsp;/&nbsp;Stop"¬"<Strong>Encender</Strong>&nbsp;/&nbsp;Parar"¬"<Strong>Encendre</Strong>&nbsp;/&nbsp;Parar"
+"<strong>RUN</strong>&nbsp;/&nbsp;Stop"¬"<strong>Encender</strong>&nbsp;/&nbsp;Parar"¬"<strong>Encendre</strong>&nbsp;/&nbsp;Parar"
+"A - 1"¬"A - 1"¬"A - 1"
+"A - B - 1"¬"A - B - 1"¬"A - B - 1"
+"A \p A"¬"A \p A"¬"A \p A"
+"A \p B"¬"A \p B"¬"A \p B"
+"A and B"¬"A and B"¬"A and B"
+"A or B"¬"A or B"¬"A or B"
+"A xor B"¬"A xor B"¬"A xor B"
+"A/C"¬"Alterna"¬"Alterna"
+"A/C Circuits"¬"Circuitos CA"¬"Circuits CA"
+"A/C source"¬"Fuente CA"¬"Font CA"
+"AC Coupled"¬"Acoplamiento CA"¬"Acoblament CA"
+"AC Trigger"¬"Trigger CA"¬"Trigger CA"
+"ADC"¬"Conversor ADC"¬"Convertidor ADC"
+"AM Detector"¬"Detector AM"¬"Detector AM"
+"AM Source"¬"Fuente de Señal AM"¬"Font de Senyal AM"
+"AND gate"¬"Puerta AND"¬"Porta AND"
+"About..."¬"Sobre..."¬"Sobre..."
+"Active Filters"¬"Filtros Activos"¬"Filtres Actius"
+"Add "¬"Añadir"¬"Afig"
+"Add 555 Timer"¬"Añadir Temporizador CI 555"¬"Afig Temporitzador CI 555"
+"Add 7 Segment Decoder"¬"Añadir Decodificador de 7 Segmentos"¬"Afig Descodificador de 7 Segments"
+"Add 7 Segment LED"¬"Añadir Display de 7 Segmentos a LED"¬"Afig Display de 7 Segments a LED"
+"Add A/C Sweep"¬"Añadir A/C Sweep"¬"Afig A/C Sweep"
+"Add A/C Voltage Source (1-terminal)"¬"Fuente de Tensión CA (1 terminal)"¬"Font de Tensió CA (1 terminal)"
+"Add A/C Voltage Source (2-terminal)"¬"Fuente de Tensión CA (2 terminales)"¬"Font de Tensió CA (2 terminals)"
+"Add ADC"¬"ADC"¬"ADC"
+"Add AM Source"¬"Añadir Fuente de Señal AM"¬"Afig Font de Senyal AM"
+"Add AND Gate"¬"Añadir Puerta AND"¬"Afig Porta AND"
+"Add Adder"¬"Añadir Sumador"¬"Afig Sumador"
+"Add Ammeter"¬"Añadir Amperímetro"¬"Afig Amperímetre"
+"Add Analog Output"¬"Añadir Salida Analógica"¬"Afig Eixida Analògica"
+"Add Analog Switch (SPDT)"¬"Añadir Interruptor Analógico de 1 Posición"¬"Afig Interruptor Analògic d'1 Posició"
+"Add Analog Switch (SPST)"¬"Añadir Interruptor Analógico de 2 Posiciones (SPST)"¬"Afig Interruptor Analògic de 2 Posicions (SPST)"
+"Add Antenna"¬"Añadir Antena"¬"Afig Antena"
+"Add Audio Input"¬"Añadir Entrada de Audio"¬"Afig Entrada d'Àudio"
+"Add Audio Output"¬"Añadir Salida de Áudio"¬"Afig Eixida d'Àudio"
+"Add Box"¬"Añadir Recuadro"¬"Afig Requadre"
+"Add CCII+"¬"Añadir (CCII+)"¬"Afig (CCII+)"
+"Add CCII-"¬"Añadir (CCII-)"¬"Afig (CCII-)"
+"Add Capacitor"¬"Añadir Condensador"¬"Afig Condensador"
+"Add Capacitor (polarized)"¬"Añadir Condensador (polarizado)"¬"Afig Condensador (polaritzat)"
+"Add Clock"¬"Añadir Señal de Reloj"¬"Afig Senyal de Rellotge"
+"Add Comparator (Hi-Z/GND output)"¬"Añadir Comparador (Salida Hi-Z/GND)"¬"Afig Comparador (Eixida Hi-Z/GND)"
+"Add Counter"¬"Añadir Contador"¬"Afig Comptador"
+"Add Counter w/ Load"¬"Añadir Contador con Carga"¬"Afig Comptador amb Càrrega"
+"Add Crystal"¬"Añadir Cristal"¬"Afig Cristall"
+"Add Current Source"¬"Añadir Fuente de corriente"¬"Afig Font de corrent"
+"Add Current-Controlled Current Source (CCCS)"¬"Añadir Fuente de corriente Controlada por corriente"¬"Afig Font de corrent Controlat per corrent"
+"Add Current-Controlled Voltage Source (CCVS)"¬"Añadir Fuente de Tensión Controlada por corriente"¬"Afig Font de Tensió Controlada per corrent"
+"Add Custom Logic"¬"Añadir Insertar Lógica Personalizada"¬"Afig Inserir Lògica Personalitzada"
+"Add Custom Transformer"¬"Añadir Transformador Personalizado"¬"Afig Transformador Personalitzat"
+"Add D Flip-Flop"¬"Añadir Flip-Flop Tipo D"¬"Afig Flip-Flop Tipus D"
+"Add DAC"¬"Añadir DAC"¬"Afig DAC"
+"Add DC Motor"¬"Añadir Motor CC"¬"Afig Motor CC"
+"Add DIAC"¬"Añadir DIAC"¬"Afig DIAC"
+"Add Darlington Pair (NPN)"¬"Añadir Par Darlington (NPN)"¬"Afig Circuit Darlington (NPN)"
+"Add Darlington Pair (PNP)"¬"Añadir Par Darlington (PNP)"¬"Afig Circuit Darlington (PNP)"
+"Add Data Export"¬"Añadir Exportación de Datos"¬"Afig Exportació de Dades"
+"Add Data Input"¬"Añadir Entrada de Datos"¬"Afig Entrada de Dades"
+"Add Decimal Display"¬"Añadir Display Decimal"¬"Afig Display Decimal"
+"Add Delay Buffer"¬"Añadir Buffer de Retardo"¬"Afig Buffer de Retard"
+"Add Demultiplexer"¬"Añadir Demultiplexor"¬"Afig Demultiplexor"
+"Add Diode"¬"Añadir Diodo"¬"Afig Díode"
+"Add External Voltage (JavaScript)"¬"Añadir Voltaje Externo (JavaScript)"¬"Afig Voltatge Extern (JavaScript)"
+"Add FM Source"¬"Añadir Fuente de FM"¬"Afig Font d'FM"
+"Add Fuse"¬"Añadir Fusible"¬"Afig Fusible"
+"Add Ground"¬"Añadir Tierra - Masa"¬"Afig Terra - Massa"
+"Add Half Adder"¬"Añadir Semisumador"¬"Afig Semisumador"
+"Add Inductor"¬"Añadir Inductor"¬"Afig Inductor"
+"Add Inverter"¬"Añadir Inversor"¬"Afig Inversor"
+"Add JFET (N-Channel)"¬"Añadir Transistor FET (Canal N)"¬"Afig Transistor FET (Canal N)"
+"Add JFET (P-Channel)"¬"Añadir Transistor FET (Canal P)"¬"Afig Transistor FET (Canal P)"
+"Add JK Flip-Flop"¬"Añadir Flip-Flop JK"¬"Afig Flip-Flop JK"
+"Add LED"¬"Añadir LED"¬"Afig LED"
+"Add LED Array"¬"Añadir Matriz de LEDs"¬"Afig Matriu de Leds"
+"Add LM317"¬"Añadir LM317"¬"Afig LM317"
+"Add Labeled Node"¬"Añadir Nodo con Nombre"¬"Afig Node amb Nom"
+"Add Lamp"¬"Añadir Lámpara"¬"Afig Llum"
+"Add Latch"¬"Añadir Latch"¬"Afig Latch"
+"Add Line"¬"Añadir Línea"¬"Afig Línia"
+"Add Logic Input"¬"Añadir Entrada Lógica"¬"Afig Entrada Lògica"
+"Add Logic Output"¬"Añadir Salida Lógica"¬"Afig Eixida Lògica"
+"Add MOSFET (N-Channel)"¬"Añadir MOSFET (Canal N)"¬"Afig MOSFET (Canal N)"
+"Add MOSFET (P-Channel)"¬"Añadir MOSFET (Canal P)"¬"Afig MOSFET (Canal P)"
+"Add Make-Before-Break Switch"¬"Añadir Switch Make-Before-Break"¬"Afig Switch Make-Before-Break"
+"Add Memristor"¬"Añadir Resistencia con Memória"¬"Afig Resistència amb Memòria"
+"Add Monostable"¬"Añadir Monoestable"¬"Afig Monoestable"
+"Add Multiplexer"¬"Añadir Multiplexor"¬"Afig Multiplexor"
+"Add NAND Gate"¬"Añadir Puerta NAND"¬"Afig Porta NAND"
+"Add NOR Gate"¬"Añadir Puerta NOR"¬"Afig Porta NOR"
+"Add Noise Generator"¬"Añadir Generador de Ruído"¬"Afig Generador de Soroll"
+"Add OR Gate"¬"Añadir Puerta OR"¬"Afig Porta OR"
+"Add OTA (LM13700 style)"¬"Añadir Amplificador OTA (LM13700)"¬"Afig Amplificador OTA (LM13700)"
+"Add Ohmmeter"¬"Añadir Ohmmímetro"¬"Afig Ohmmímetre"
+"Add Op Amp (ideal, + on top)"¬"Añadir Amplificador Operacional Ideal (+ arriba)"¬"Afig Amplificador Operacional Ideal (+ a dalt)"
+"Add Op Amp (ideal, - on top)"¬"Añadir Amplificador Operacional Ideal (- arriba)"¬"Afig Amplificador Operacional Ideal (- a dalt)"
+"Add Op Amp (real)"¬"Añadir Amplificador Operacional (real)"¬"Afig Amplificador Operacional (real)"
+"Add Optocoupler"¬"Añadir Acoplador Óptico"¬"Afig Acoblador Òptic"
+"Add PISO shift register"¬"Añadir registro de desplazamiento PISO"¬"Afig registre de desplaçament PIS"
+"Add Phase Comparator"¬"Añadir Comparador de Fase"¬"Afig Comparador de Fase"
+"Add Photoresistor"¬"Añadir Fotoresistencia"¬"Afig Fotoresistència"
+"Add Potentiometer"¬"Añadir Resistencia variable"¬"Afig Resistència variable"
+"Add Push Switch"¬"Añadir Pulsador"¬"Afig Polsador"
+"Add Relay"¬"Añadir Relé"¬"Afig Relé"
+"Add Resistor"¬"Añadir Resistencia"¬"Afig Resistència"
+"Add Ring Counter"¬"Añadir Contador en Anillo"¬"Afig Comptador en Anell"
+"Add SCR"¬"Añadir SCR"¬"Afig SCR"
+"Add SIPO shift register"¬"Añadir registro shift SIPO"¬"Afig registre shift SIPO"
+"Add SPDT Switch"¬"Añadir Conmutador SPDT"¬"Afig Commutador SPDT"
+"Add Schmitt Trigger"¬"Añadir Disparador Schmitt"¬"Afig Disparador Schmitt"
+"Add Schmitt Trigger (Inverting)"¬"Añadir Disparador Schmitt (invirtiendo)"¬"Afig Disparador Schmitt (invertint)"
+"Add Sequence generator"¬"Añadir Generador de Secuencia"¬"Afig Generador de Seqüència"
+"Add Sliders"¬"Añadir Deslizadores"¬"Afig Lliscadors"
+"Add Spark Gap"¬"Añadir Descargador"¬"Afig Descarregador"
+"Add Square Wave Source (1-terminal)"¬"Añadir Generador de Onda Cuadrada (1 terminal)"¬"Afig Generador d'Onda Quadrada (1 terminal)"
+"Add Static RAM"¬"Añadir RAM Estática"¬"Afig RAM Estàtica"
+"Add Stop Trigger"¬"Añadir Disparador de Stop"¬"Afig Disparador d'Estop"
+"Add Subcircuit Instance"¬"Añadir Sub-circuito"¬"Afig Subcircuit"
+"Add Switch"¬"Añadir Interruptor"¬"Afig Interruptor"
+"Add T Flip-Flop"¬"Añadir Flip-Flop T"¬"Afig Flip-Flop T"
+"Add TL431"¬"Añadir TL431"¬"Afig TL431"
+"Add TRIAC"¬"Añadir TRIAC"¬"Afig TRIAC"
+"Add Tapped Transformer"¬"Añadir Trasformador Simétrico"¬"Afig Transformador Simètric"
+"Add Test Point"¬"Añadir Punto de Test"¬"Afig Punt de Test"
+"Add Text"¬"Añadir Texto"¬"Afig Text"
+"Add Thermistor"¬"Añadir Termistor"¬"Afig Termistor"
+"Add Time Delay Relay"¬"Añadir Relé de Retardo de Tiempo"¬"Afig Relé de Retard de Temps"
+"Add Transformer"¬"Añadir Trasformador"¬"Afig Transformador"
+"Add Transistor (bipolar, NPN)"¬"Añadir BJT NPN"¬"Afig BJT NPN"
+"Add Transistor (bipolar, PNP)"¬"Añadir BJT PNP"¬"Afig BJT PNP"
+"Add Transmission Line"¬"Añadir Linea de transmisión"¬"Afig Línia de transmissió"
+"Add Triode"¬"Añadir Triodo"¬"Afig Tríode"
+"Add Tristate Buffer"¬"Añadir Buffer Tri-State"¬"Afig Buffer Tri-State"
+"Add Tunnel Diode"¬"Añadir Diodo Túnel"¬"Afig Díode Túnel"
+"Add Unijunction Transistor"¬"Añadir Transistor Uniunión"¬"Afig Transistor Uniunió"
+"Add VCO"¬"Añadir Oscilador Controlado por Tensión (VCO)"¬"Afig Oscil·lador Controlat per Tensió (VCO)"
+"Add Varactor/Varicap"¬"Añadir Varicap"¬"Afig Varicap"
+"Add Variable Voltage"¬"Añadir Fuente de Tensión Variable"¬"Afig Font de Tensió Variable"
+"Add Voltage Source (1-terminal)"¬"Añadir Fuente de Tensión (1 terminal)"¬"Afig Font de Tensió (1 terminal)"
+"Add Voltage Source (2-terminal)"¬"Añadir Fuente de Tensión (2 terminales)"¬"Afig Font de Tensió (2 terminals)"
+"Add Voltage-Controlled Current Source (VCCS)"¬"Añadir Fuente de corriente Controlada por Tensión"¬"Afig Font de Corrent Controlat per Tensió"
+"Add Voltage-Controlled Voltage Source (VCVS)"¬"Añadir Fuente de Tensión Controlada por Tensión"¬"Afig Font de Tensió Controlada per Tensió"
+"Add Voltmeter/Scope Probe"¬"Añadir Voltímetro/Sonda"¬"Afig Voltímetre/Sonda"
+"Add Wattmeter"¬"Añadir Watímetro"¬"Afig Wattímetre"
+"Add Wire"¬"Añadir Conexión Eléctrica"¬"Afig Connexió Elèctrica"
+"Add XOR Gate"¬"Añadir Puerta XOR"¬"Afig Porta XOR"
+"Add Zener Diode"¬"Añadir Diodo Zener"¬"Afig Díode Zener"
+"Add to Existing Scope"¬"Añadir al Ámbito Existente"¬"Afig a l'Àmbit Existent"
+"Adder"¬"Sumador"¬"Sumador"
+"Adjust timestep for best audio quality and performance?"¬"¿Ajustar el intervalo de tiempo para la mejor calidad de audio y eficiencia?"¬"Ajustar l'interval de temps per a la millor qualitat d'àudio i eficiència?"
+"Adjust timestep to allow for higher frequencies?"¬"¿Ajustar el intervalo de tiempo para frecuencias más altas?"¬"Ajustar l'interval de temps per a freqüències més altes?"
+"Allpass"¬"Pasa todo"¬"Passa tot"
+"Allpass w/ Square"¬"Pasa todo c/ Onda Cuadrada"¬"Passatot amb onda quadrada"
+"Ammeter"¬"Amperímetro"¬"Amperímetre"
+"Amplifier"¬"Amplificador"¬"Amplificador"
+"Amplifiers"¬"Amplificadores"¬"Amplificadors"
+"Analog/Digital"¬"Analógico/Digital"¬"Analògic/Digital"
+"Apply"¬"Aplicar"¬"Aplicar"
+"Are you sure?"¬"¿Estás seguro?"¬"N'estàs segur?"
+"Are you sure?  There are unsaved changes."¬"¿Estás seguro? Hay cambios sin guardar."¬"N'estàs segur? Hi ha canvis sense guardar."
+"Armature Resistance (ohms)"¬"Resistencia de armadura (ohms)"¬"Resistència d'armadura (ohms)"
+"Armature inductance (H)"¬"Inductancia de armadura (H)"¬"Inductància d'armadura (H)"
+"Astable Multivib"¬"Multivibrador Astable"¬"Multivibrador Anestable"
+"Audio Out"¬"Salida de Áudio"¬"Eixida d'àudio"
+"Audio data is not ready yet.  Increase simulation speed to make data ready sooner."¬"Datos de áudio ainda No disponíveis. Aumentar a Velocidad de Simulación para antecipar os Datos."¬"Dades d'àudio encara No disponibles Augmentar a Velocitat de Simulació per a anticipar les Dades."
+"Auto"¬"Auto"¬"Auto"
+"Auto (Max Scale)"¬"Auto (Máxima escala)"¬"Auto (màxima escala)"
+"Auto-Adjust Timestep"¬"Auto-Ajuste Intervalo de tiempo"¬"Acte-Ajust Interval de temps"
+"B-C Leakage Emission Coefficient (NC)"¬"B-C Coeficiente de Emisión de Fugas (NC)"¬"B-C Coeficient d'Emissió de Fuites (NC)"
+"B-C Leakage Saturation Current (ISC)"¬"B-C Corriente de Saturación de Fugas (ISC)"¬"B-C Corrent de Saturació de Fuites (ISC)"
+"B-E Leakage Emission Coefficient (NE)"¬"B-E Coeficiente de Emisión de Fugas (NE)"¬"B-E Coeficient d'Emissió de Fuites (NE)"
+"B-E Leakage Saturation Current (ISE)"¬"B-E Corriente de Saturación de Fugas (ISE)"¬"B-E Corrent de Saturació de Fuites (ISE)"
+"Back emf constant (Vs/rad)"¬"Constante de fuerza electromotriz (Vs/rad)"¬"Constant de força electromotriu (Vs/rad)"
+"Band-pass Filter"¬"Filtro Pasa-Banda"¬"Filtre passabanda"
+"Band-pass w/ Noise"¬"Pasa-Banda c/ ruido"¬"Passabanda amb soroll"
+"Band-pass with Ringing"¬"Pasa-Banda c/ Oscilaciones"¬"Passabanda amb oscil·lacions"
+"Base Inductance (H)"¬"Inductancia Base (H)"¬"Inductància Base (H)"
+"Basics"¬"Básicos"¬"Bàsics"
+"Behaviour"¬"Comportamiento"¬"Comportament"
+"Bessel vs Butterworth"¬"Bessel vs Butterworth"¬"Bessel vs Butterworth"
+"Beta"¬"Beta"¬"Beta"
+"Beta/hFE"¬"Beta/hFE"¬"Beta/hFE"
+"Bidirectional"¬"Bidireccional"¬"Bidireccional"
+"Bifurcation points:"¬"Puntos de separación :"¬"Punts de separació:"
+"Binary"¬"Binario"¬"Binari"
+"Binary Value"¬"Valor en Binario"¬"Valor en binari"
+"Binary-Weighted DAC"¬"DAC Ponderado en Binaria"¬"DAC Ponderat en Binària"
+"Bistable Multivib (Flip-Flop)"¬"Multivibrador Biestable (Flip-Flop)"¬"Multivibrador Biestable (Flip-Flop)"
+"Blank Circuit"¬"Nuevo Circuito"¬"Nou circuit"
+"Blank Pin"¬"Nuevo Pin"¬"Nou Pin"
+"Blank on 1111"¬"Nuevo cuando 1111"¬"Nou quan 1111"
+"Blocking Inductive Kickback"¬"Limitador de Contragolpe Inductivo"¬"Limitador de Contraatac Inductiu"
+"Blue Value (0-1)"¬"Valor en Azul (0-1)"¬"Valor en Blau (0-1)"
+"Body Terminal"¬"Terminal de Substrato"¬"Terminal de Substrat"
+"Boost Converter"¬"Convertidor Elevador"¬"Convertidor Elevador"
+"Both Sides"¬"Ambos lados"¬"Ambdós costats"
+"Breakdown Voltage"¬"Tensión de Ruptura"¬"Tensió de Ruptura"
+"Breakdown voltage"¬"Tensión de Ruptura"¬"Tensió de Ruptura"
+"Breakdown voltage (volts)"¬"Tensión de Ruptura (volts)"¬"Tensió de Ruptura (volts)"
+"Brent-Kung Adder"¬"Sumador Brent-Kung"¬"Sumador Brent-Kung"
+"Buck Converter"¬"Convertidor Reductor"¬"Convertidor Reductor"
+"Buck-Boost Converter"¬"Convertidor Elevador-Reductor"¬"Convertidor Elevador-Reductor"
+"Butterworth Band-Pass"¬"Butterworth Pasa-Banda"¬"Butterworth passabanda"
+"Butterworth Band-Stop"¬"Butterworth Bloquea-Banda"¬"Butterworth eliminabanda"
+"Butterworth High-Pass"¬"Butterworth Pasa-Alta"¬"Butterworth passaalt"
+"Butterworth High-Pass (10 pole)"¬"Butterworth Pasa-Alta (10 polos)"¬"Butterworth passaalt (10 pols)"
+"Butterworth High-Pass w/ Noise"¬"Butterworth Pasa-Alta c/ Ruido"¬"Butterworth passaalt amb soroll"
+"Butterworth Low-Pass"¬"Butterworth Pasa-Baja"¬"Butterworth passabaix"
+"Butterworth Low-Pass (10 pole)"¬"Butterworth Pasa-Bajas (10 pólos)"¬"Butterworth passabaix 10 pols)"
+"Butterworth Low-Pass w/ Noise"¬"Butterworth Pasa-Bajas c/ Ruido"¬"Butterworth passabaix amb soroll"
+"CC2"¬"CC2"¬"CC2"
+"CCCS"¬"CCCS"¬"CCCS"
+"CCII+"¬"CCII+"¬"CCII+"
+"CCII+ Implementation"¬"Implementación CCII+"¬"Implementació CCII+"
+"CCII+~"¬"CCII+~"¬"CCII+~"
+"CCII-"¬"CCII-"¬"CCII-"
+"CCII- Implementation"¬"Implementación CCII-"¬"Implementació CCII-"
+"CCII-~"¬"CCII-~"¬"CCII-~"
+"CCVS"¬"CCVS"¬"CCVS"
+"CGAND"¬"CGAND"¬"CGAND"
+"CGOR"¬"CGOR"¬"CGOR"
+"CMOS"¬"CMOS"¬"CMOS"
+"CMOS Crystal Oscillator"¬"Oscilador a Cristal CMOS"¬"Oscil·lador a cristall CMOS"
+"CMOS Flip-Flop"¬"Flip-Flop CMOS"¬"Flip-Flop CMOS"
+"CMOS Inverter"¬"Inversor CMOS"¬"Inversor CMOS"
+"CMOS Inverter (slow transition)"¬"Inversor CMOS (de transicción lenta)"¬"Inversor CMOS (de transició lenta)"
+"CMOS Inverter (w/capacitance)"¬"Inversor CMOS (con condensador)"¬"Inversor CMOS (amb condensador)"
+"CMOS Master-Slave Flip-Flop"¬"Flip-Flop Master-Slave CMOS"¬"Flip-Flop Master-Slave CMOS"
+"CMOS Multiplexer"¬"Multiplexor CMOS"¬"Multiplexor CMOS"
+"CMOS NAND"¬"NAND CMOS"¬"NAND CMOS"
+"CMOS NOR"¬"NOR CMOS"¬"NOR CMOS"
+"CMOS Transmission Gate"¬"Puerta de transmisión CMOS"¬"Porta de transmissió CMOS"
+"CMOS XOR"¬"XOR CMOS"¬"XOR CMOS"
+"Can't edit this model."¬"No es posible editar este modelo."¬"No és possible editar aquest model."
+"Can't have two input/output nodes connected!"¬"No se puede tener dos nodos entrada/salida conectados!"¬"No es pot tindre dos nodes entrada/eixida connectats!"
+"Can't load canvas2svg.js."¬"No se puede cargar canvas2svg.js"¬"No es pot carregar canvas2svg.js"
+"Can't load circuit list!"¬"La lista de circuitos no se puede cargar!"¬"La llista de circuits no es pot carregar!"
+"Can't load circuit!"¬"El circuito no se puede cargar!"¬"El circuit no es pot carregar!"
+"Can't set language"¬"Idioma No disponible"¬"Idioma No disponible"
+"Cancel"¬"Cancelar"¬"Cancel·lar"
+"Cannot load: That file is too large!"¬"Imposible cargar: El fichero es demasiado largo!"¬"Impossible carregar: El fitxer és massa llarg!"
+"Capacitance (F)"¬"Capacidad (F)"¬"Capacitat (F)"
+"Capacitance @ 0V (F)"¬"Capacidad a 0V (F)"¬"Capacitat a 0V (F)"
+"Capacitance Multiplier"¬"Multiplicador de Capacidad"¬"Multiplicador de Capacitat"
+"Capacitor"¬"Condensador"¬"Condensador"
+"Capacitor loop with no resistance!"¬"¡Malla con condensador sin resistencia!"¬"Malla amb condensador sense resistència!"
+"Caps in Parallel"¬"Condensadores en Paralelo"¬"Condensadors en Paral·lel"
+"Caps in Series"¬"Condensadores en Serie"¬"Condensadors en Sèrie"
+"Caps of Various Capacitances"¬"Condensadores de varias Capacidades"¬"Condensadors de diverses Capacitats"
+"Caps w/ Various Frequencies"¬"Condensadores de varias Frecuencias"¬"Condensadors de diverses Freqüències"
+"Carrier Frequency (Hz)"¬"Frecuencia de la Portadora (Hz)"¬"Freqüència de la Portadora (Hz)"
+"Cascading Ring Counters"¬"Contadores Anillo en cascada"¬"Comptadors Anell en cascada"
+"Center Circuit"¬"Centrar el Circuito"¬"Centrar el Circuit"
+"Center Off"¬"Descolocar"¬"Descol·locar"
+"Centre Circuit"¬"Centrar el Circuito"¬"Centrar el Circuit"
+"Change Language"¬"Cambiar Idioma"¬"Canviar Idioma"
+"Chaos 1"¬"Caotico 1"¬"Caòtic 1"
+"Chaos 2"¬"Caotico 2"¬"Caòtic 2"
+"Chaotic Circuits"¬"Circuitos Caoticos"¬"Circuits Caòtics"
+"Chassis"¬"Chasis"¬"Xassís"
+"Chua"¬"Chua"¬"Chua"
+"Circuits"¬"Ejemplos de Circuitos"¬"Exemples de Circuits"
+"Class-D Amplifier"¬"Amplificador Classe D"¬"Amplificador Classe D"
+"Click on the link below to save your image"¬"Hacer click en el link de abajo para guardar la Imagen"¬"Fes clic en l'enllaç de baix per a guardar la Imatge"
+"Clk"¬"Reloj"¬"Rellotge"
+"Clocked SR Flip-Flop"¬"Flip-Flop RS Sincronizado"¬"Flip-Flop RS Sincronitzat"
+"Cmd-"¬"Cmd-"¬"Cmd-"
+"Coil Resistance (ohms)"¬"resistencia de la Bobina (ohms)"¬"resistència de la Bobina (ohms)"
+"Coil Style"¬"Estilo de resistencia"¬"Estil de resistència"
+"Colon"¬"Dos Puntos"¬"Dos Punts"
+"Colpitts Oscillator"¬"Oscilador Colpitts"¬"Oscil·lador Colpitts"
+"Comb Filter"¬"Filtro Comb"¬"Filtre Comb"
+"Combinational Logic"¬"Lógica Combinacional"¬"Lògica Combinacional"
+"Combine"¬"Combinar"¬"Combina"
+"Combine All"¬"Combinar Todos"¬"Combina'ls tots"
+"Common"¬"Común"¬"Comú"
+"Common Anode"¬"Anodo Común"¬"Ànode Comú"
+"Common Cathode"¬"Catodo Común"¬"Càtoce Comú"
+"Common-Emitter Amplifier"¬"Amplificador de Emisor Común"¬"Amplificador d'Emissor Comú"
+"Common-Mode Input"¬"Entrada en Modo Común"¬"Entrada en mode comú"
+"Common-Mode w/Current Source"¬"Fuente de corriente en Modo Común"¬"Font de corrent en mode comú"
+"Common-Source Amplifier"¬"Amplificador Fuente-Común"¬"Amplificador Font-Comú"
+"Comparator"¬"Comparador"¬"Comparador"
+"Complement (F210)"¬"Complementar (F210)"¬"Complementa (F210)"
+"Contents"¬"Contenidos"¬"Continguts"
+"Control Voltage"¬"Tensión de control"¬"Tensió de control"
+"Conventional Current Motion"¬"Sentido Convencional de la corriente"¬"Sentit Convencional del corrent"
+"Convergence failed!"¬"No converge!"¬"No convergeix!"
+"Cooldown Time (s)"¬"tiempo de reposición (s)"¬"temps de reposició (s)"
+"Copy"¬"Copiar"¬"Copia"
+"Copy to Clipboard"¬"Copiar al portapapeles"¬"Copia al portapapers"
+"Corner For Forward Beta High Current Roll-Off (IKF)"¬"Esquina para bajada de corriente alta beta directa (IKF)"¬"Cantó per a baixada de corrent alt beta directe (IKF)"
+"Corner For Reverse Beta High Current Roll-Off (IKR)"¬"Esquina para caída de alta corriente beta inversa (IKR)"¬"Cantó per a baixada de corrent alt beta invers (IKR)"
+"Counter"¬"Contador"¬"Comptador"
+"Counters"¬"Contadores"¬"Comptadors"
+"Coupled LC's"¬"LC Acoplado"¬"LC Acoblat"
+"Coupling Coefficient"¬"Coeficiente de Acoplamento"¬"Coeficient d'Acoblament"
+"Create New Advanced Model"¬"Crear Nuevo modelo avanzado"¬"Crear Nou model avançat"
+"Create New Model"¬"Crear Nuevo modelo"¬"Crear Nou model"
+"Create New Simple Model"¬"Crear Nuevo modelo simple"¬"Crear Nou model simple"
+"Create Subcircuit..."¬"Crear Sub-circuito..."¬"Crear Subcircuit..."
+"Create short URL"¬"Crear URL corta"¬"Crear URL curta"
+"Critically Damped LRC"¬"RLC Críticamente Amortiguado"¬"RLC Críticament Esmorteït"
+"Crossbar Memory"¬"Memória Crossbar"¬"Memòria Crossbar"
+"Crossover"¬"Crossover"¬"Crossover"
+"Crystal Oscillator"¬"Oscilador de Cuarzo"¬"Oscil·lador de Quars"
+"Ctrl-"¬"Ctrl-"¬"Ctrl-"
+"Current"¬"corriente"¬"corrent"
+"Current (A)"¬"corriente (A)"¬"corrent (A)"
+"Current Amplifier"¬"Amplificador de corriente"¬"Amplificador de corrent"
+"Current At Above Voltage (A)"¬"Corriente por encima del voltaje (A)"¬"Corrent per damunt del voltatge (A)"
+"Current Circuit:"¬"Circuito Actual:"¬"Circuit Actual:"
+"Current Color"¬"Color Actual"¬"Color Actual"
+"Current Conveyor"¬"Conversor de corriente"¬"Convertidor de corrent"
+"Current Differentiator"¬"Diferenciador de corriente"¬"Diferenciador de corrent"
+"Current Integrator"¬"Integrador de corriente"¬"Integrador de corrent"
+"Current Mirror"¬"Espejo de corriente"¬"Espill de corrent"
+"Current Ramp"¬"Rampa de corriente"¬"Rampa de corrent"
+"Current Required"¬"corriente Necesaria"¬"corrent Necessari"
+"Current Source"¬"Fuente de corriente"¬"Font de corrent"
+"Current Source Ramp"¬"Generador de Rampa de corriente"¬"Generador de Rampa de corrent"
+"Current Speed"¬"Velocidad de corriente"¬"Velocitat de corrent"
+"Current-Controlled Voltage Source"¬"Fuente de Tensión Controlada por corriente"¬"Font de Tensió Controlada per corrent"
+"Custom Label"¬"Etiqueta Personalizada"¬"Etiqueta Personalitzada"
+"CustomCompositeElm:"¬"Elm compuesto personalizado:"¬"Elm compost personalitzat:"
+"Cut"¬"Cortar"¬"Tallar"
+"D flip-flop"¬"Flip-Flop D"¬"Flip-Flop D"
+"D/C"¬"CC"¬"CC"
+"DAC"¬"DAC"¬"DAC"
+"DC Coupled"¬"Corriente Continua Acoplada"¬"Corrent Continu Acoblat"
+"DC Motor"¬"Motor Corriente Continua"¬"Motor Corrent Continu"
+"DC Offset (V)"¬"Desplazamiento Corriente Continua (V)"¬"Desplaçament Corrent Continu (V)"
+"DC Restoration"¬"Restaurar DC"¬"Restaurar DC"
+"DIAC"¬"DIAC"¬"DIAC"
+"DIAC/TRIAC Dimmer"¬"Dimmer DIAC/TRIAC"¬"Dimmer DIAC/TRIAC"
+"DTL"¬"DTL"¬"DTL"
+"DTL Inverter"¬"Inversor DTL"¬"Inversor DTL"
+"DTL NAND"¬"NAND DTL"¬"NAND DTL"
+"DTL NOR"¬"NOR DTL"¬"NOR DTL"
+"Darlington Pair"¬"Par Darlington"¬"Circuit Darlington"
+"Decimal Counter"¬"Contador Decimal"¬"Comptador Decimal"
+"Decimal Point"¬"Punto Decimal"¬"Punt Decimal"
+"Definition"¬"Definición"¬"Definició"
+"Delay (s)"¬"Atraso (s)"¬"Endarreriment (s)"
+"Delayed Buffer"¬"Buffer Retardado"¬"Buffer Retardat"
+"Delete"¬"Excluir"¬"Excloure"
+"Delta PWM Encoder"¬"Condificador Delta PWM"¬"Codificador Delta PWM"
+"Delta-Sigma ADC"¬"Delta-Sigma ADC"¬"Delta-Sigma ADC"
+"Depletion-load NMOS Inverter"¬"Inversor NMOS de carga de agotamiento"¬"Inversor NMOS de càrrega d'esgotament"
+"Description"¬"Descripción"¬"Descripció"
+"Deviation (Hz)"¬"Desvio (Hz)"¬"Desviació (Hz)"
+"Device has no external inputs/outputs!"¬"Dispositivo sin entradas/Salidas externas!"¬"Dispositiu sense entrades/Eixides externes!"
+"Differential Amplifier"¬"Amplificador Diferencial"¬"Amplificador Diferencial"
+"Differential Amplifiers"¬"Amplificadores Diferenciales"¬"Amplificadors Diferencials"
+"Differential Input"¬"Entrada Diferencial"¬"Entrada Diferencial"
+"Differentiator"¬"Diferenciador"¬"Diferenciador"
+"Differentiator (inverting)"¬"Diferenciador (invertido)"¬"Diferenciador (invertit)"
+"Digital Sine Wave"¬"Onda Senoidal Digital"¬"Onda Senoidal Digital"
+"Digital Symbol"¬"Símbolo Digital"¬"Símbol Digital"
+"Diode"¬"Diodo"¬"Díode"
+"Diode I/V Curve"¬"Curva I/V de Diodo"¬"Corba I/V de Díode"
+"Diode Limiter"¬"Limitador a Diodo"¬"Limitador a Díode"
+"Diodes"¬"Diodos"¬"Díodes"
+"Disable Editing"¬"Edición Desactivada"¬"Edició Desactivada"
+"Divide-by-2"¬"Dividir por 2"¬"Dividir per 2"
+"Divide-by-3"¬"Dividir por 3"¬"Dividir per 3"
+"Dock Scope"¬"Banco de Osciloscopios"¬"Banc d'Oscil·loscopis"
+"Download last played audio"¬"Descargar el último audio reproducido"¬"Descarregar l'últim àudio reproduït"
+"Drag All"¬"Arrastar Todos"¬"Arrossega'ls tots"
+"Drag Column"¬"Arrastar Columna"¬"Arrossega Columna"
+"Drag Post"¬"Arrastar Post"¬"Arrossega Post"
+"Drag Row"¬"Arrastar Linea"¬"Arrossega Línia"
+"Drag Selected"¬"Arrastar Seleccionado"¬"Arrossega Seleccionat"
+"Drag the pins to the desired position"¬"Arrastar conectores para la posición deseada"¬"Arrossega connectors per a la posició desitjada"
+"Draw"¬"Dibujar"¬"Dibuixa"
+"Draw Bar On Top"¬"Dibuja Linea encima"¬"Dibuixa Línia damunt"
+"Draw Circle"¬"Dibujar Circulo"¬"Dibuixa Cercle"
+"Dropbox links must start https://www.dropbox.com/"¬"Enlaces Dropbox deben empezar con https://www.dropbox.com/"¬"Enllaços Dropbox han de començar amb https://www.dropbox.com/"
+"Dump Matrix"¬"Volcar Matriz"¬"Bolcar Matriu"
+"Duplicate"¬"Duplicar"¬"Duplica"
+"Duration (s)"¬"Duracción (s)"¬"Duració (s)"
+"Duty Cycle"¬"Ciclo Activo"¬"Cicle Actiu"
+"Duty cycle"¬"Ciclo Activo"¬"Cicle Actiu"
+"Duty cycle "¬"Ciclo Activo "¬"Cicle Actiu "
+"Dynamic RAM"¬"RAM Dinámica"¬"RAM Dinàmica"
+"ECL"¬"ECL"¬"ECL"
+"ECL NOR/OR"¬"NOR/NOT ECL"¬"NOR/NOT ECL"
+"Early Effect"¬"Efecto Precoz"¬"Efecte Precoç"
+"Earth"¬"Tierra"¬"Terra"
+"Edge-Triggered D Flip-Flop"¬"Flip-Flop D Disparado por flanco"¬"Flip-Flop D Disparat per flanc"
+"Edit"¬"Editar"¬"Edita"
+"Edit Component"¬"Editar Componente"¬"Edita Component"
+"Edit Model"¬"Editar Modelo"¬"Edita Model"
+"Edit Pin Layout"¬"Editar diseño de PIN"¬"Edita disseny de PIN"
+"Edit Shortcuts"¬"Editar accesos rápidos"¬"Edita accessos ràpids"
+"Edit Subcircuit Pin Layout"¬"Editar diseño de PIN del subcircuito"¬"Edita disseny de PIN del subcircuito"
+"Edit Values With Mouse Wheel"¬"Editar valores con la rueda del ratón"¬"Editar valors amb la roda del ratolí"
+"Edit..."¬"Editar..."¬"Edita..."
+"Editing disabled.  Re-enable from the Options menu."¬"Edición desactivada. Activar desde el menú de opciones."¬"Edició desactivada. Activa des del menú d'opcions."
+"Emission Coefficient"¬"Coeficiente de Emisión"¬"Coeficient d'Emissió"
+"Emitter Follower"¬"Seguidor de Emisor"¬"Seguidor d'Emissor"
+"Emitter-Coupled LC Oscillator"¬"Oscilador LC Acoplado por Emisor"¬"Oscil·lador LC Acoblat per Emissor"
+"European Resistors"¬"Símbolo Europeo para Resistencias"¬"Símbol Europeu per a Resistències"
+"Exception in stampCircuit()"¬"Excepción en stampCircuit()"¬"Excepció en stampCircuit()"
+"Exclusive OR"¬"Or Exclusivo"¬"Or Exclusiu"
+"Export As Image..."¬"Exportar como Imagen..."¬"Exporta com a Imatge..."
+"Export As Link..."¬"Exportar como Link..."¬"Exporta com a Link..."
+"Export As SVG..."¬"Exportar como SVG..."¬"Exporta com SVG..."
+"Export As Text..."¬"Exporta en Formato Texto..."¬"Exporta en Format Text..."
+"Export as Image"¬"Exportar como imagen"¬"Exporta com a imatge"
+"Export as Local File"¬"Exportar como archivo local"¬"Exporta com a arxiu local"
+"Export as Text"¬"Exportar como Texto"¬"Exporta com a Text"
+"Export as URL"¬"Exportar como URL"¬"Exporta com a URL"
+"Extra Segment"¬"Segmento Extra"¬"Segment Extra"
+"F211"¬"F211"¬"F211"
+"F220"¬"F220"¬"F220"
+"F221"¬"F221"¬"F221"
+"FM Source"¬"Fuente de Señal FM"¬"Font de Senyal FM"
+"Fan-Out"¬"Fan-Out"¬"Fan-Out"
+"File"¬"Archivo"¬"Arxiu"
+"File Error Response"¬"Respuesta de error de archivo"¬"Resposta d'error d'arxiu"
+"File name:"¬"Nombre archivo:"¬"Nom arxiu:"
+"File too large!"¬"Archivo demasiado grande!"¬"Arxiu massa gran!"
+"Find Component"¬"Encontrar Componente"¬"Troba Component"
+"Find Component..."¬"Encontrar Componente..."¬"Troba Component..."
+"Find DC Operating Point"¬"Encontrar Punto de Operación CC"¬"Troba Punt d'Operació CC"
+"Flash ADC"¬"ADC tipo Flash"¬"ADC tipus Flaix"
+"Flip X"¬"Invertir X"¬"Invertir X"
+"Flip X/Y"¬"Invertir X/Y"¬"Invertir X/I"
+"Flip Y"¬"Invertir Y"¬"Invertir I"
+"Flip-Flops"¬"Flip-Flops"¬"Flip-Flops"
+"Follower"¬"Seguidor"¬"Seguidor"
+"Forward Current Emission Coefficient (NF)"¬"Coeficiente de emisión de corriente directa (NF)"¬"Coeficient d'emissió de corrent directe (NF)"
+"Forward Early Voltage (VAF)"¬"Tensión temprana directa (VAF)"¬"Tensió primerenca directa (VAF)"
+"Forward Voltage"¬"Tensión directa"¬"Tensió directa"
+"Frequency"¬"Frecuencia"¬"Freqüència"
+"Frequency (Hz)"¬"Frecuencia (Hz)"¬"Freqüència (Hz)"
+"Frequency Doubler"¬"Dobrador de Frecuencia"¬"Doblador de Freqüència"
+"Friction coefficient (Nms/rad)"¬"Coeficiente de friccion (Nms/rad)"¬"Coeficient de fricció (Nms/rad)"
+"Full Adder"¬"Sumador total"¬"Sumador total"
+"Full-Wave Rectifier"¬"Retificador de Onda Completa"¬"Retificador d'Onda Completa"
+"Full-Wave Rectifier w/ Filter"¬"Retificador de Onda Completa c/ Filtro"¬"Retificador d'Onda Completa amb Filtre"
+"Gain"¬"Ganancia"¬"Guany"
+"Gate Resistance (ohms)"¬"Resistencia de Puerta (ohms)"¬"Resistència de Porta (ohms)"
+"Gate-MT1 Resistance (ohms)"¬"resistencia de Gate-MT1 (ohms)"¬"resistència de porta-MT1 (ohms)"
+"Gear Ratio"¬"Relación de Rueda"¬"Relació de Roda"
+"Gilbert Cell Multiplier"¬"Multiplicador de Célula Gilbert"¬"Multiplicador de Cèl·lula Gilbert"
+"Gray Code Counter"¬"Contador de Código Gray"¬"Comptador de Codi Gray"
+"Green Value (0-1)"¬"Valor Verde (0-1)"¬"Valor Verd (0-1)"
+"Grid Height"¬"Altura de la Rejilla"¬"Altura de la Reixeta"
+"Grid Width"¬"Ancho de la Rejilla"¬"Ample de la Reixeta"
+"Ground Pin"¬"Pin a Tierra"¬"Pin a Terra"
+"Gyrator"¬"Girador"¬"Girador"
+"Half Adder"¬"Semisumador"¬"Semisumador"
+"Half-Flash (Subranging) ADC"¬"ADC Semi-Flash (Subranging)"¬"ADC Semi-Flaix (Subranging)"
+"Half-Wave Rectifier"¬"Retificador Media-Onda"¬"Rectificador semionda"
+"Half-Wave Rectifier (inverting)"¬"Rectificador Media-Onda (inversor)"¬"Rectificador semionda (inversor)"
+"Hard-Switching 1"¬"Hard-Switching 1"¬"Hard-Switching 1"
+"Hard-Switching 2"¬"Hard-Switching 2"¬"Hard-Switching 2"
+"Hartley Oscillator"¬"Oscilador Hartley"¬"Oscil·lador Hartley"
+"Height"¬"Altura"¬"Altura"
+"High Voltage"¬"Nível Alto de Tensión"¬"Nivell Alt de Tensió"
+"High Voltage (V)"¬"Nivel Alto de Tensión (V)"¬"Nivell Alt de Tensió (V)"
+"High-Pass Filter (RC)"¬"Filtro Pasa-Alta (RC)"¬"Filtre passaalt (RC)"
+"High-Pass Filter (RL)"¬"Filtro Pasa-Alta (RL)"¬"Filtre passaalt (RL)"
+"Hold current (amps)"¬"Mantener corriente (amps)"¬"Mantindre corrent (amps)"
+"Holding Current (A)"¬"corriente de mantanimiento (A)"¬"corrent de manteniment (A)"
+"Holding current (A)"¬"corriente de mantanimiento (A)"¬"corrent de manteniment (A)"
+"Horizontal Scale"¬"Escala horizontal"¬"Escala horitzontal"
+"Howland Current Source"¬"Fuente de corriente Howland"¬"Font de corrent Howland"
+"I-to-V Converter"¬"Conversor corriente Tensión"¬"Convertidor corrent Tensió"
+"I/V Curve"¬"Curva I/V"¬"Corba I/V"
+"I2t"¬"I2t"¬"I2t"
+"IEC Gates"¬"Puerta tipo IEC"¬"Porta tipus IEC"
+"IEC Symbol"¬"Símbolo IEC"¬"Símbol IEC"
+"If Rp=RL, then QL=Qu/2"¬"Si Rp=RL, entonces QL=Qu/2"¬"Si Rp=RL, llavors QL=Qu/2"
+"Impedance (ohms)"¬"Impedancia (ohms)"¬"Impedància (ohms)"
+"Impedance Matching (L-Section)"¬"Acople de Impedancia (Sección L)"¬"Acoblament d'Impedància (Secció L)"
+"Impedance Matching (Shunt Stub)"¬"Acople de Impedancia (Shunt Stub)"¬"Acoblament d'Impedància (Xunt Stub)"
+"Impedances of Same Magnitude"¬"Impedancia Equivalente"¬"Impedància Equivalent"
+"Import"¬"Importar"¬"Importa"
+"Import From Dropbox Link"¬"Importar de un link Dropbox"¬"Importa d'un link Dropbox"
+"Import From Dropbox..."¬"Importar de Dropbox..."¬"Importa de Dropbox..."
+"Import From Text..."¬"Importar de Archivo Texto..."¬"Importa d'Arxiu Text..."
+"Import from Dropbox"¬"Importar de Dropbox"¬"Importa de Dropbox"
+"Import from Text"¬"Importar del Archivo Texto"¬"Importa de l'Arxiu Text"
+"Improved"¬"Mejorado"¬"Millorat"
+"Inductance (H)"¬"Inductancia (H)"¬"Inductància (H)"
+"Inductive Kickback"¬"Retro Choque Inductivo"¬"Retro Xoc Inductiu"
+"Inductor"¬"Inductor"¬"Inductor"
+"Inductor Simulator"¬"Simulador de Inductancia"¬"Simulador d'Inductància"
+"Inductors in Parallel"¬"Inductores en Paralelo"¬"Inductors en Paral·lel"
+"Inductors in Series"¬"Inductores en Série"¬"Inductors en Sèrie"
+"Inductors of Various Inductances"¬"Inductores de Varias Inductancias"¬"Inductors de Diverses Inductàncies"
+"Inductors w/ Various Frequencies"¬"Inductores de Varias frecuencias"¬"Inductors de Diverses freqüències"
+"Info Text"¬"Texto Informativo"¬"Text Informatiu"
+"Initial Current (on Reset) (A)"¬"Corriente inicial (al reiniciar) (A)"¬"Corrent inicial (en reiniciar) (A)"
+"Initial Voltage (on Reset)"¬"Voltaje inicial (al reiniciar)"¬"Voltatge inicial (en reiniciar)"
+"Inputs"¬"entradas"¬"entrades"
+"Integrator"¬"Integrador"¬"Integrador"
+"Internal Node"¬"Nodo interno"¬"Node intern"
+"Internals"¬"Internos"¬"Interns"
+"Invert Inputs"¬"Invertir Entradas"¬"Invertir Entrades"
+"Invert Reset"¬"Invertir Reinicio"¬"Invertir Reinici"
+"Invert Set/Reset"¬"Invertir Fijar/Reiniciar"¬"Invertir Fixar/Reiniciar"
+"Invert reset pin"¬"Pin de RESET Invertido"¬"Pin de RESET Invertit"
+"Inverted Output"¬"Salida Invertida"¬"Eixida Invertida"
+"Inverter Amplifier"¬"Amplificador Inversor"¬"Amplificador Inversor"
+"Inverter Oscillator"¬"Oscilador Inversor"¬"Oscil·lador Inversor"
+"Inverter with only MOSFETs"¬"Inversor solo con MOSFETs"¬"Inversor sol amb MOSFETs"
+"Inverting Amplifier"¬"Amplificador Inversor"¬"Amplificador Inversor"
+"JFET Current Source"¬"Fuente de corriente a FET"¬"Font de corrent a FET"
+"JFET Follower"¬"Seguidor a FET"¬"Seguidor a FET"
+"JFET Follower w/zero offset"¬"Seguidor a FET con offset cero"¬"Seguidor a FET amb offset zero"
+"JFETs"¬"FET de Unión"¬"FET d'Unió"
+"JK Flip-Flop"¬"Flip-Flop JK"¬"Flip-Flop JK"
+"JK flip-flop"¬"flip-flop JK"¬"flip-flop JK"
+"JK\q00: No Change"¬"JK\q00: Sin cambio"¬"JK\q00: Sense canvi"
+"JK\q01: Reset"¬"JK\q01: Reiniciar"¬"JK\q01: Reinicia"
+"JK\q10: Set"¬"JK\q10: Fijar"¬"JK\q10: Fixa"
+"JK\q11: Toggle"¬"JK\q11: Alternar"¬"JK\q11: Alterna"
+"Jerk"¬"Impulso"¬"Impuls"
+"Johnson Counter"¬"Contador Johnson"¬"Comptador Johnson"
+"Joule Thief"¬"Ladrón de Joule"¬"Lladre de Joule"
+"LC Ladder"¬"Diagrama Escada con LC"¬"Diagrama Escala amb LC"
+"LC Modes (2)"¬"2 Modos de 2 Circuitos LC Acoplados (2)"¬"2 Maneres de 2 Circuits LC Acoblats (2)"
+"LC Modes (3)"¬"3 Modos de 3 Circuitos LC Acoplados (3)"¬"3 Maneres de 3 Circuits LC Acoblats (3)"
+"LC Oscillator"¬"Oscilador LC"¬"Oscil·lador LC"
+"LED"¬"LED"¬"LED"
+"LED Array"¬"Matriz de LEDs"¬"Matriu de Leds"
+"LED Flasher"¬"LED intermitente"¬"LED intermitent"
+"LED array"¬"matriz de LEDs"¬"matriu de Leds"
+"LM137000 Gain Oddity"¬"LM137000 Gain Oddity"¬"LM137000 Gain Oddity"
+"LM324"¬"LM324"¬"LM324"
+"LM324, fixed"¬"LM324, arreglado"¬"LM324, arreglat"
+"LM324, old"¬"LM324, antiguo"¬"LM324, antic"
+"LM741"¬"LM741"¬"LM741"
+"LRC Circuit"¬"Circuito RLC"¬"Circuit RLC"
+"Label"¬"Rótulo"¬"Rètol"
+"Lambda Diode"¬"Diodo Lambda"¬"Díode Lambda"
+"Lambda Diode Oscillator"¬"Oscilador a Diodo Lambda"¬"Oscil·lador a Díode Lambda"
+"Latch"¬"Latch"¬"Latch"
+"Leading-Edge Detector"¬"Detector de Flanco"¬"Detector de Flanc"
+"Light Brightness"¬"Brillo de luz"¬"Lluentor de llum"
+"Light Bulb"¬"Lámpara"¬"Llum"
+"Light Switch"¬"Interruptor de Luz"¬"Interruptor de Llum"
+"Lissajous Figures"¬"Figuras de Lissajous"¬"Figures de Lissajous"
+"Load Contents From File"¬"Cargar contenidos desde fichero"¬"Carrega continguts des de fitxer"
+"Load File"¬"Cargar fichero"¬"Carrega fitxer"
+"Load Model Circuit"¬"Cargar modelo de circuito"¬"Carrega model de circuit"
+"Load Subcircuits Only"¬"Cargar solo subcircuitos"¬"Carrega només subcircuits"
+"Log Amplifier"¬"Amplificador Logarítmico"¬"Amplificador Logarítmic"
+"Log Spectrum"¬"Espectrómetro Logarítmico"¬"Espectròmetre Logarítmic"
+"Logarithmic"¬"Logarítmico"¬"Logarítmic"
+"Logic Families"¬"Famílias Lógicas"¬"Famílias Lògiques"
+"Long-Distance Power Transmission"¬"Transmisión de Potencia a Larga Distancia"¬"Transmissió de Potència a Llarga Distància"
+"Low Voltage"¬"Tensión Baja"¬"Tensió Baixa"
+"Low Voltage (V)"¬"Nivel Bajo de Tensión (V)"¬"Nivell Baix de Tensió (V)"
+"Low-Pass Filter"¬"Filtro Pasa-Bajas"¬"Filtre passabaix"
+"Low-Pass Filter (RC)"¬"Filtro Pasa-Baja (RC)"¬"Filtre passabaix (RC)"
+"Low-Pass Filter (RL)"¬"Filtro Pasa-Baja (RL)"¬"Filtre passabaix (RL)"
+"Low-duty-cycle Oscillator"¬"Oscilador con Bajo Ciclo Activo"¬"Oscil·lador amb Baix Cicle Actiu"
+"Lower threshold (V)"¬"Limite Inferior (V)"¬"Límit Inferior (V)"
+"MOSFETs"¬"MOSFETs"¬"MOSFETs"
+"Majority Logic"¬"Lógica Mayoritaria"¬"Lògica Majoritària"
+"Manual"¬"Manual"¬"Manual"
+"Marx Generator"¬"Generador de Marx"¬"Generador de Marx"
+"Master-Slave Flip-Flop"¬"Flip-Flop Master-Slave"¬"Flip-Flop Master-Slave"
+"Matrix error"¬"Error en la Matriz"¬"Error en la Matriu"
+"Max Brightness Current (A)"¬"corriente Máxima de Encendido (A)"¬"corrent Màxim d'Encesa (A)"
+"Max Frequency (Hz)"¬"Frecuencia Máxima (Hz)"¬"Freqüència Màxima (Hz)"
+"Max Output (V)"¬"Salida Máxima (V)"¬"Eixida Màxima (V)"
+"Max Resistance (ohms)"¬"resistencia Máxima (ohm)"¬"resistència Màxima (ohm)"
+"Max Reverse Voltage"¬"Máxima Tensión Inversa"¬"Màxima Tensió Inversa"
+"Max Scale"¬"Escala Máxima"¬"Escala Màxima"
+"Max Value"¬"Valor Máximo"¬"Valor Màxim"
+"Max Voltage"¬"Tensión Máxima"¬"Tensió Màxima"
+"Memristor"¬"Memristor"¬"Memoresistència"
+"Memristors"¬"Memristores"¬"Memoresistències"
+"Min Frequency (Hz)"¬"Frecuencia Mínima (Hz)"¬"Freqüència Mínima (Hz)"
+"Min Output (V)"¬"Salida Mínima (V)"¬"Eixida Mínima (V)"
+"Min Resistance (ohms)"¬"resistencia Mínima (ohms)"¬"resistència Mínima (ohms)"
+"Min Value"¬"Valor Mínimo"¬"Valor Mínim"
+"Min Voltage"¬"Tensión Mínima"¬"Tensió Mínima"
+"Minimum time step size (s)"¬"Tamaño de intervalo de tiempo mínimo (s)"¬"Grandària d'interval de temps mínim (s)"
+"Misc Devices"¬"Colección de Dispositivos"¬"Col·lecció de Dispositius"
+"Mismatched lines (Pulse)"¬"Lineas incompatibles (Pulso)"¬"Línies incompatibles (Pols)"
+"Mismatched lines (Standing Wave)"¬"Lineas incompatibles (Onda Estacionaria)"¬"Línies incompatibles (Onda Estacionària)"
+"Missing Pulse Detector"¬"Detector de Pulso Ausente"¬"Detector de Pols Absent"
+"Mobility (um^2/(s*V))"¬"Mobilidad [um^2/(s*V)]"¬"Mobilitat [um^2/(s*V)]"
+"Model"¬"Modelo"¬"Model"
+"Model Name"¬"Nombre do Modelo"¬"Nom del Model"
+"Modulus"¬"Módulo"¬"Mòdul"
+"Moment of inertia (Kg.m^2)"¬"Momento de inercia (Kg.m^2)"¬"Moment d'inèrcia (Kg.m^2)"
+"Momentary Switch"¬"Pulsador"¬"Polsador"
+"Monostable"¬"Monoestable"¬"Monoestable"
+"Monostable Multivib (One-Shot)"¬"Multivibrador Monoestable (Pulso Único)"¬"multivibrador Monoestable (Pols Únic)"
+"Monostable Multivibrator"¬"Multivibrador Monoestable"¬"multivibrador Monoestable"
+"Multiplexer"¬"Multiplexor"¬"Multiplexor"
+"Multivibrators"¬"Multivibradores"¬"multivibradors"
+"Must restart to set language.  Restart now?"¬"Necesario reiniciar para cambiar idioma. ¿Reiniciar ahora?"¬"Cal reiniciar per a canviar idioma. Reiniciar ara?"
+"NAND gate"¬"Puerta NAND"¬"Porta NAND"
+"NMOS"¬"NMOS"¬"NMOS"
+"NMOS Inverter"¬"Inversor a NMOS"¬"Inversor a NMOS"
+"NMOS NAND"¬"NAND NMOS"¬"NAND NMOS"
+"NOR gate"¬"Puerta NOR"¬"Porta NOR"
+"NPN Transistor"¬"Transistor NPN"¬"Transistor NPN"
+"Name"¬"Nombre"¬"Nom"
+"Need to ground transmission line!"¬"¡Es necesario poner a tierra línea de transmisión!"¬"Cal posar a terra línia de transmissió!"
+"Negative Color"¬"Color Negativo"¬"Color Negatiu"
+"Negative Edge Triggered"¬"Borde activado negativo"¬"Vora activada negativa"
+"Negative Impedance Converter"¬"Conversor de Impedancia Negativa"¬"Convertidor d'Impedància Negativa"
+"Negative Supply Voltage (V)"¬"Tesión de alimentación Negativa (v)"¬"Tensió d'alimentació Negativa (v)"
+"New Blank Circuit"¬"Nuevo circuito en blanco"¬"Nou circuit en blanc"
+"New Slider"¬"Nuevo deslizador"¬"Nou lliscador"
+"New Window..."¬"Nueva ventana..."¬"Nova finestra..."
+"No file"¬"Sin archivo"¬"Sense arxiu"
+"Noise"¬"Ruido"¬"Soroll"
+"Nominal Power"¬"Potencia Nominal"¬"Potència Nominal"
+"Nominal Voltage"¬"Tensión Nominal"¬"Tensió Nominal"
+"None"¬"Nada"¬"Gens"
+"None (logic inputs)"¬"Ninguna (entradas lógicas)"¬"Cap (entrades lògiques)"
+"Noninverting Amplifier"¬"Amplificador No-Inversor"¬"Amplificador No-Inversor"
+"Normally closed"¬"Normalmente cerrado"¬"Normalment tancat"
+"Norton's Theorem"¬"Teorema de Norton"¬"Teorema de Norton"
+"Not working. You need a browser that supports the CANVAS element."¬"No funcional. Necesitas un explorador que soporte el elemento CANVAS."¬"No funcional. Necessites un explorador que suport l'element CANVAS."
+"Notch Filter"¬"Filtro Notch"¬"Filtre Notch"
+"Note the difference in gain by a factor of approx. 2 between the switch settings."¬"Observa la diferencia de ganancia en un factor de aprox. 2 entre las configuraciones del conmutador."¬"Observa la diferència de guany en un factor d'aprox. 2 entre les configuracions del commutador."
+"Number of Poles"¬"Número de Pólos"¬"Nombre de pols"
+"Numeric"¬"Numérico"¬"Numèric"
+"OR gate"¬"Puerta OR"¬"Porta OR"
+"OTA (LM13700 style)"¬"OTA (Tipo LM13700)"¬"OTA (Tipus LM13700)"
+"OTA Ring Modulator"¬"Modulador en Anillo c/ OTA"¬"Modulador en Anell amb OTA"
+"OTA Single Stage VCF (low pass)"¬"VCF de Único Estado c/ OTA (Pasa-Baja)"¬"VCF d'Únic Estat amb OTA (passabaix)"
+"OTA Voltage Controlled Amplifier (VCA)"¬"Oscilador Controlado por Tensión c/ OTA"¬"Oscil·lador Controlat per Tensió amb OTA"
+"Off Current (A)"¬"Corriente al apagado (A)"¬"Corrent a l'apagat (A)"
+"Off Delay (s)"¬"Retardo al apagado (s)"¬"Retard a l'apagat (s)"
+"Off Resistance (ohms)"¬"Resistencia al apagado (ohms)"¬"Resistència a l'apagat (ohms)"
+"Off resistance (ohms)"¬"Resistencia al apagado (ohms)"¬"Resistència a l'apagat (ohms)"
+"Ohm's Law"¬"Ley de Ohm"¬"Llei d'Ohm"
+"On Current (A)"¬"Corriente de conducción (A)"¬"Corrent de conducció (A)"
+"On Delay (s)"¬"Retardo de conducción (s)"¬"Retard de conducció (s)"
+"On Resistance (ohms)"¬"Resistencia de conducción (ohms)"¬"Resistència de conducció (ohms)"
+"On resistance (ohms)"¬"Resistencia de conducción (ohms)"¬"Resistència de conducció (ohms)"
+"Op-Amp"¬"Amplificador Operacional"¬"Amplificador Operacional"
+"Op-Amp Feedback"¬"Amplificador Operacional c/ Realimentado"¬"Amplificador Operacional amb realimentat"
+"Op-Amps"¬"Amplificadores Operacionales"¬"Amplificadors Operacionals"
+"Open Dropbox Chooser"¬"Abrir selector Dropbox"¬"Obrir selector Dropbox"
+"Open File..."¬"Abrir Archivo..."¬"Obrir Arxiu..."
+"Operational Transconductance Amplifier (OTA)"¬"Amplificador Operacional de Transcondutancia (OTA)"¬"Amplificador Operacional de Transcondutància (OTA)"
+"Options"¬"Opciones"¬"Opcions"
+"Oscillators"¬"Osciladores"¬"Oscil·ladors"
+"Other Options..."¬"Otras Opciones..."¬"Altres Opcions..."
+"Other Passive Circuits"¬"Otros Circuitos Pasivos"¬"Altres Circuits Passius"
+"Output Current Limit (A)"¬"Límite de corriente de Salida (A)"¬"Límit de corrent d'Eixida (A)"
+"Output Function"¬"Función de Salida"¬"Funció d'Eixida"
+"Output Pulldown Resistance (ohms)"¬"Resistencia pulldown de salida (ohms)"¬"Resistència pulldown d'eixida (ohms)"
+"Output at F (M\q0)"¬"Salida en F (M\q0)"¬"Eixida en F (M\q0)"
+"Output at F (M\q1)"¬"Salida en F (M\q1)"¬"Eixida en F (M\q1)"
+"Outputs"¬"Salidas"¬"Eixides"
+"P2P Voltage"¬"Tensión P2P"¬"Tensió P2P"
+"PISO shift register"¬"Registrador de desplazamiento PISO"¬"Registrador de desplaçament PISO"
+"PNP Transistor"¬"Transistor PNP"¬"Transistor PNP"
+"Parallel Capacitance"¬"Capacitancia Paralela"¬"Capacitància Paral·lela"
+"Parallel Resonance"¬"Resonancia Paralela"¬"Ressonància Paral·lela"
+"Parallel-In Serial-Out"¬"Entrada Paralela p/ Salida Serial (PISO)"¬"Entrada Paral·lela p/ Eixida Serial (PISO)"
+"Parse error in description"¬"Error al leer descripción"¬"Error en llegir descripció"
+"Parse error in expression"¬"Error al leer expresión"¬"Error en llegir expressió"
+"Passive Filters"¬"Filtros Pasivos"¬"Filtres Passius"
+"Paste"¬"Pegar"¬"Apegar"
+"Paste the text file for your circuit here..."¬"Pegar el Archivo texto con el circuito aquí..."¬"Apegar l'Arxiu text amb el circuit ací..."
+"Path to ground with no resistance!"¬"Camino a tierra sin resistencia!"¬"Camí a terra sense resistència!"
+"Peak Detector"¬"Detector de Pico"¬"Detector de Pic"
+"Peak to peak"¬"Pico a pico"¬"Pic a pic"
+"Period"¬"Período"¬"Període"
+"Period (s)"¬"Período (s)"¬"Període (s)"
+"Phase Comparator (Type II)"¬"Comparador de Fase (Tipo 2)"¬"Comparador de Fase (Tipus 2)"
+"Phase Comparator Internals"¬"Comparador de Fase"¬"Comparador de Fase"
+"Phase Offset (degrees)"¬"desplazamiento de Fase (graus)"¬"desplaçament de Fase (graus)"
+"Phase-Locked Loops"¬"Mallas de Captura de Fase"¬"Malles de Captura de Fase"
+"Phase-Sequence Network"¬"Red de Secuencia de Fase"¬"Xarxa de Seqüència de Fase"
+"Phase-Shift Oscillator"¬"Oscilador por desplazamiento de Fase"¬"Oscil·lador per desplaçament de Fase"
+"Play Audio"¬"Reproducir Audio"¬"Reproduir Àudio"
+"Play Once"¬"Reproducir una vez"¬"Reproduir una vegada"
+"Please enter a model name."¬"Por favor introduce el nombre del modelo."¬"Per favor, introdueix el nom del model."
+"Plot X/Y"¬"Diagrama X-Y"¬"Diagrama X-I"
+"Plots"¬"Gráficos"¬"Gràfics"
+"Position"¬"Posición"¬"Posició"
+"Positive Color"¬"Color Positivo"¬"Color Positiu"
+"Positive Edge Triggered"¬"Iniciado por Flanco Positivo"¬"Iniciat per Flanc Positiu"
+"Positive Supply Voltage (5-20V)"¬"Voltaje de alimentación Positivo (5-20V)"¬"Voltatge d'alimentació Positiu (5-20V)"
+"Potentiometer"¬"Resistencia variable"¬"Resistència variable"
+"Potentiometer Divider"¬"Divisor de Tensión a Resistencia variable"¬"Divisor de Tensió a Resistència variable"
+"Power Brightness"¬"Brillo"¬"Lluentor"
+"Power Converters"¬"Convertidor de Potencia"¬"Convertidor de Potència"
+"Power Factor"¬"Factor de Potencia"¬"Factor de Potència"
+"Power Factor Correction"¬"Correción do Factor de Potencia"¬"Correcció del Factor de Potència"
+"Primary Inductance (H)"¬"Inductancia Primária (H)"¬"Inductància Primària (H)"
+"Print Circuit"¬"Imprimir Circuito"¬"Imprimir Circuit"
+"Print..."¬"Imprimir..."¬"Imprimir..."
+"Priority Encoder"¬"Codificador de Prioridad"¬"Codificador de Prioritat"
+"Properties..."¬"Propiedades..."¬"Propietats..."
+"Pulse"¬"Pulso"¬"Pols"
+"Pulse Sequencer"¬"Sequenciador de Pulso"¬"Seqüenciador de Pols"
+"Pulse Width Modulator"¬"Modulador de Longitud de Pulso"¬"Modulador de Longitud de Pols"
+"Pulse width"¬"Ancho de pulso"¬"Ample de pols"
+"Push-Pull Follower"¬"Seguidor de Emisor Push-Pull"¬"Seguidor d'Emissor Push-Pull"
+"QAM-256 Modulator/Demodulator"¬"Modulador/Demodulador QAM-256"¬"Modulador/Demodulador QAM-256"
+"R-2R Ladder DAC"¬"DAC R-2R"¬"DAC R-2R"
+"RMS Current"¬"corriente RMS"¬"corrent RMS"
+"RMS Voltage"¬"Tensión RMS"¬"Tensió RMS"
+"RTL"¬"RTL"¬"RTL"
+"RTL Inverter"¬"Inversor RTL"¬"Inversor RTL"
+"RTL NAND"¬"NAND RTL"¬"NAND RTL"
+"RTL NOR"¬"NOR RTL"¬"NOR RTL"
+"Range for voltage color (V)"¬"Banda p/ Colores de Tensión (V)"¬"Banda p/ Colors de Tensió (V)"
+"Ratio"¬"Razón"¬"Raó"
+"Re-Import"¬"Importar nuevamente"¬"Importar novament"
+"Recover Auto-Save"¬"Recuperar AutoSalvado"¬"Recuperar autosalvat"
+"Red Value (0-1)"¬"Valor en Rojo (0-1)"¬"Valor en Roig (0-1)"
+"Redo"¬"Rehacer"¬"Refer"
+"Relaxation Oscillator"¬"Oscilador de Relajación"¬"Oscil·lador de Relaxació"
+"Relay"¬"Relé"¬"Relé"
+"Relay AND"¬"AND a Relé"¬"AND a Relé"
+"Relay Counter"¬"Contador a Relé"¬"Comptador a Relé"
+"Relay Flip-Flop"¬"Flip-Flop a Relé"¬"Flip-Flop a Relé"
+"Relay Mux"¬"Mux a Relé"¬"Mux a Relé"
+"Relay OR"¬"OR a Relé"¬"OR a Relé"
+"Relay Oscillator"¬"Oscilador a Relé"¬"Oscil·lador a Relé"
+"Relay Toggle Flip-Flop"¬"Flip-Flop T a Relé"¬"Flip-Flop T a Relé"
+"Relay XOR"¬"XOR a Relé"¬"XOR a Relé"
+"Relays"¬"Relés"¬"Relés"
+"Remove Plot"¬"Borrar Gráfico"¬"Esborrar Gràfic"
+"Remove Scope"¬"Borrar Scope"¬"Esborrar Scope"
+"Repeat"¬"Repetir"¬"Repetir"
+"Reset"¬"Reiniciar"¬"Reinicia"
+"Reset Pin"¬"Pin de RESET"¬"Pin de RESET"
+"Reset Position"¬"Reiniciar posición"¬"Reiniciar posició"
+"Resistance"¬"resistencia"¬"resistència"
+"Resistance (ohms)"¬"resistencia (ohms)"¬"resistència (ohms)"
+"Resistor Cube"¬"Cubo de Resistencias"¬"Cub de Resistències"
+"Resistor Grid"¬"Rejilla de Resistencias"¬"Reixeta de Resistències"
+"Resistor Grid 2"¬"Rejilla de Resistencias 2"¬"Reixeta de Resistències 2"
+"Resistors"¬"Resistencias"¬"Resistències"
+"Retriggerable"¬"Re-Triggerable"¬"Re-Triggerable"
+"Reverse Beta (BR)"¬"Beta inversa (BR)"¬"Beta inversa (BR)"
+"Reverse Current Emission Coefficient (NR)"¬"Coeficiente de emisión de corriente inversa (NR)"¬"Coeficient d'emissió de corrent invers (NR)"
+"Reverse Early Voltage (VAR)"¬"Voltaje inicial inverso (VAR)"¬"Voltatge inicial invers (VAR)"
+"Ring Modulator"¬"Modulador en Anillo"¬"Modulador en Anell"
+"Rossler"¬"Rossler"¬"Rossler"
+"Run&nbsp;/&nbsp;<strong>STOP</strong>"¬"Encender&nbsp;/&nbsp;<strong>Parar</strong>"¬"Encendre&nbsp;/&nbsp;<strong>Parar</strong>"
+"S3S2S1S0"¬"S3S2S1S0"¬"S3S2S1S0"
+"SCR"¬"SCR"¬"SCR"
+"SEPIC Converter"¬"Conversor SEPIC"¬"Convertidor SEPIC"
+"SIPO shift register"¬"registrador de desplazamiento SIPO"¬"registrador de desplaçament SIPO"
+"SR Flip-Flop"¬"Flip-Flop RS"¬"Flip-Flop RS"
+"Sample Length (s)"¬"Longitud de muestra (s)"¬"Longitud de mostra (s)"
+"Sample-and-Hold"¬"Muestra-y-Retención"¬"Mostra-i-Retenció"
+"Sampling Rate"¬"Tasa de Muestreado"¬"Taxa de Mostrejat"
+"Saturation Current"¬"corriente de Saturación"¬"corrent de Saturació"
+"Save"¬"Guardar"¬"Guarda"
+"Save Across Sessions"¬"Guardar entre sesiones"¬"Guarda entre sessions"
+"Save As..."¬"Salvar como..."¬"Guarda com..."
+"Save as Default"¬"Salvar por defecto"¬"Guarda per defecte"
+"Sawtooth"¬"Diente de Sierra"¬"Dent de Serra"
+"Sawtooth Generator"¬"Generador Diente de Sierra"¬"Generadora Dent de Serra"
+"Sawtooth Oscillator"¬"Oscilador Diente de Sierra"¬"Oscil·ladora Dent de Serra"
+"Sawtooth Wave Generator"¬"Generador de Onda Diente de Sierra"¬"Generador d'Onda Dent de Serra"
+"Scale"¬"Escala"¬"Escala"
+"Scale Factor"¬"Factor de escala"¬"Factor d'escala"
+"Schmitt"¬"Schmitt"¬"Schmitt"
+"Schmitt Inputs"¬"Entradas Schmitt"¬"Entrades Schmitt"
+"Schmitt Trigger"¬"Schmitt Trigger"¬"Schmitt Trigger"
+"Schmitt Trigger (inverting)"¬"Schmitt Trigger (inversor)"¬"Schmitt Trigger (inversor)"
+"Schmitt Trigger~"¬"Schmitt Trigger~"¬"Schmitt Trigger~"
+"Schottky"¬"Schottky"¬"Schottky"
+"Scope"¬"Ámbito"¬"Àmbit"
+"Scope Properties"¬"Propiedades del Osciloscopio"¬"Propietats de l'Oscil·loscopi"
+"Scopes"¬"Osciloscopios"¬"Oscil·loscopis"
+"Segments"¬"Segmentos"¬"Segments"
+"Select"¬"Seleccionar"¬"Selecciona"
+"Select All"¬"Seleccionar Todo"¬"Selecciona-ho Tot"
+"Select/Drag Sel"¬"Seleccionar/Arrastar"¬"Selecciona/Arrossega"
+"Selection Color"¬"Selección de color"¬"Selecció de color"
+"Separate All"¬"Separar todos"¬"Separa'ls tots"
+"Sequence"¬"Secuencia"¬"Seqüència"
+"Sequential Logic"¬"Lógica Sequencial"¬"Lògica Seqüencial"
+"Serial-In Parallel-Out"¬"Entrada Seria p/ Salida Paralela (SIPO)"¬"Entrada Seriada p/ Eixida Paral·lela (SIPO)"
+"Series Capacitance (F)"¬"Capaditor en serie"¬"Capacitància en sèrie"
+"Series Resistance"¬"Resistencia en serie"¬"Resistència en sèrie"
+"Series Resonance"¬"Resonancia en serie"¬"Ressonància en sèrie"
+"Series/Parallel"¬"Serie/Paralelo"¬"Sèrie/Paral·lel"
+"Set Pin"¬"Pin de Selección"¬"Pin de Selecció"
+"Set R1 to these"¬"Definir R1 para estos"¬"Definir R1 per a aquests"
+"Shift Registers"¬"Registradores de desplazamiento"¬"Registradors de desplaçament"
+"Shortcuts..."¬"Accesos rápidos..."¬"Accessos ràpids..."
+"Show Average"¬"Mostrar Media"¬"Mostra Mitjana"
+"Show Box"¬"Mostrar Caja"¬"Mostra Caixa"
+"Show Bulk"¬"Mostrar Todo"¬"Mostra-ho Tot"
+"Show Current"¬"Mostrar corriente"¬"Mostra corrent"
+"Show Cursor Cross Hairs"¬"Mostrar Cursor en Cruz"¬"Mostra Cursor en Creu"
+"Show Duty Cycle"¬"Mostrar Ciclo Activo"¬"Mostra Cicle Actiu"
+"Show Extended Info"¬"Mostrar información extendida"¬"Mostra informació detallada"
+"Show Frequency"¬"Mostrar Frecuencia"¬"Mostra Freqüència"
+"Show Ib"¬"Mostrar Ib"¬"Mostra Ib"
+"Show Ic"¬"Mostrar Ic"¬"Mostra Ic"
+"Show Ie"¬"Mostrar Ie"¬"Mostra Ie"
+"Show Info"¬"Mostrar Parámetros del Gráfico"¬"Mostra Paràmetres del Gràfic"
+"Show Negative Peak Value"¬"Mostrar Valor de Pico Negativo"¬"Mostra Valor de Pic Negatiu"
+"Show Peak Value"¬"Mostrar Valor de Pico"¬"Mostra Valor de Pic"
+"Show Power"¬"Mostrar Potencia"¬"Mostra Potència"
+"Show Power Consumed"¬"Mostrar Potencia Consumida"¬"Mostra Potència Consumida"
+"Show RMS Average"¬"Mostrar Valor RMS"¬"Mostra Valor RMS"
+"Show Resistance"¬"Mostrar resistencia"¬"Mostra resistència"
+"Show Scale"¬"Mostrar Escala"¬"Mostra Escala"
+"Show Spectrum"¬"Mostrar Espectro"¬"Mostra Espectre"
+"Show V vs I"¬"Mostrar V frente a I"¬"Mostra V enfront d'I"
+"Show Value"¬"Mostrar Valor"¬"Mostra Valor"
+"Show Values"¬"Mostrar Valores"¬"Mostra Valors"
+"Show Vbc"¬"Mostrar Vbc"¬"Mostra Vbc"
+"Show Vbe"¬"Mostrar Vbe"¬"Mostra Vbe"
+"Show Vce"¬"Mostrar Vce"¬"Mostra Vce"
+"Show Vce vs Ic"¬"Mostrar Vce vs Ic"¬"Mostra Vce vs Ic"
+"Show Voltage"¬"Mostrar Tensión"¬"Mostra Tensió"
+"Side 1"¬"Lado 1"¬"Costat 1"
+"Side 2"¬"Lado 2"¬"Costat 2"
+"Signal"¬"Señal"¬"Senyal"
+"Signal Frequency (Hz)"¬"Frecuencia de la Señal (Hz)"¬"Freqüència del Senyal (Hz)"
+"Silicon-Controlled Rectifiers"¬"Retificadores Controlados a Silício"¬"Rectificadors Controlats a Silici"
+"Simple TL"¬"LT Simples"¬"LT Simples"
+"Simple, with distortion"¬"Simples, con distorsión"¬"Simples, amb distorsió"
+"Simulate Body Diode"¬"Simular Diodo del Substrato"¬"Simular Díode del Substrat"
+"Simulated load"¬"Carga simulada"¬"Càrrega simulada"
+"Simulation Speed"¬"Velocidad de Simulación"¬"Velocitat de Simulació"
+"Sine Wave"¬"Onda Senoidal"¬"Onda Senoidal"
+"Sine Wave Generator"¬"Generador de Onda Senoidal"¬"Generador d'Onda Senoidal"
+"Singular matrix!"¬"Matriz Singular!"¬"Matriu Singular!"
+"Size"¬"Tamaño"¬"Grandària"
+"Slew Rate (V/ns)"¬"Velocidad de Respuesta (V/ns)"¬"Velocitat de Resposta (V/ns)"
+"Slew Rate (V/usec)"¬"Velocidad de Respuesta (V/usec)"¬"Velocitat de Resposta (V/usec)"
+"Slider Text"¬"Texto del control Deslizante"¬"Text del control Lliscant"
+"Sliders..."¬"Controles deslizantes..."¬"Controls lliscants..."
+"Small Grid"¬"Rejilla Pequeña"¬"Reixeta Xicoteta"
+"Some nodes are unconnected!"¬"Algunos nodos no estan conectados!"¬"Alguns nodes no estan connectats!"
+"Source Follower"¬"Seguidor de fuente"¬"Seguidor de font"
+"Spark Gap"¬"Descargador de V"¬"Descarregador deV "
+"Spike Generator"¬"Generador de Impulso"¬"Generador d'Impuls"
+"Split Wire"¬"Conexión Dividida"¬"Connexió Dividida"
+"Square Wave"¬"Onda Cuadrada"¬"Onda Quadrada"
+"Square Wave Generator"¬"Generador de Onda Cuadrada"¬"Generador d'Onda Quadrada"
+"Stable Voltage"¬"Tensión Estable"¬"Tensió Estable"
+"Stack"¬"Aplicar"¬"Aplicar"
+"Stack All"¬"Apilar Todos"¬"Apilar Tots"
+"Standing Wave"¬"Onda Estacionaria"¬"Onda Estacionària"
+"Start Position (s)"¬"Posición de Partida(s)"¬"Posició de Partida(s)"
+"Static RAM"¬"RAM Estática"¬"RAM Estàtica"
+"Step-Down Transformer"¬"Trasformador Reductor"¬"Transformador Reductor"
+"Step-Up Transformer"¬"Trasformador Elevador"¬"Transformador Elevador"
+"Strobe Pin"¬"Pin Strobo"¬"Pin Strobo"
+"Stub Frequency Response"¬"Respuesta en Frequencia Stub"¬"Resposta en Freqüència Stub"
+"Summing Amplifier"¬"Amplifidor Sumador"¬"Amplificador Sumador"
+"Swap D/S"¬"Cambiar D con S"¬"Canvia D amb S"
+"Swap E/C"¬"Cambiar E con C"¬"Canvia E amb C"
+"Swap Inputs"¬"Permutar Entradas"¬"Permuta Entrades"
+"Swap Secondary Polarity"¬"Permutar Polaridad Secundaria"¬"Permuta Polaritat Secundària"
+"Swap Terminals"¬"Permutar terminales"¬"Permuta terminals"
+"Sweep Time (s)"¬"tiempo de Barrido (s)"¬"temps d'Escombratge (s)"
+"Switch"¬"Interruptor"¬"Interruptor"
+"Switch Group"¬"Grupo de Interruptor"¬"Grup d'Interruptor"
+"Switch in lower position - configuration used on LM13700 data sheet"¬"Interruptor en posición inferior - configuración usada en las especificaciones de LM13700"¬"Interruptor en posició inferior - configuració usada en les especificacions de LM13700"
+"Switch in upper position - normal configuration for LM13700"¬"Interrputor en posición superior - configuración normal para LM13700"¬"Interrputor en posició superior - configuració normal per a LM13700"
+"Switch-Tree DAC"¬"DAC Switch-Tree"¬"DAC Switch-Tree"
+"Switchable Filter"¬"Filtro Conmutable"¬"Filtre Commutable"
+"Switched-Capacitor Filter"¬"Filtro Switched-Capacitor"¬"Filtre Switched-Capacitor"
+"Switching Time (s)"¬"Tiempo de conmutación (s)"¬"Temps de commutació (s)"
+"Symbol"¬"Símbolo"¬"Símbol"
+"Synchronous Counter"¬"Contador Síncrono"¬"Comptador Síncron"
+"T flip-flop"¬"Flip-Flop T"¬"Flip-Flop T"
+"TRIAC"¬"TRIAC"¬"TRIAC"
+"TTL"¬"TTL"¬"TTL"
+"TTL Inverter"¬"Inversor TTL"¬"Inversor TTL"
+"TTL NAND"¬"NAND TTL"¬"NAND TTL"
+"TTL NOR"¬"NOR TTL"¬"NOR TTL"
+"Temperature"¬"Temperatura"¬"Temperatura"
+"Termination"¬"Terminación"¬"Terminació"
+"Ternary"¬"Ternario"¬"Ternari"
+"Tesla Coil"¬"Bobina de Tesla"¬"Bobina de Tesla"
+"Test Point"¬"Punto de Test"¬"Punt de Test"
+"Text"¬"Texto"¬"Text"
+"Text file for this circuit is..."¬"El archivo de texto para este circuito es..."¬"L'arxiu de text per a aquest circuit és..."
+"Thevenin's Theorem"¬"Teorema de Thevenin"¬"Teorema de Thevenin"
+"This model cannot be modified.  Change the model name to allow customization."¬"Este modelo no puede ser modificado. Cambia el nombre de modelo para permitir personalización."¬"Aquest model no pot ser modificat. Canvia el nom de model per a permetre personalització."
+"This site, or your browser doesn't support the Dropbox chooser so you can't pick a file from your dropbox account."¬"Este sitio o su navegador No soporta o selector de Dropbox. Portanto, No és posible bajar un Archivo de su cuenta del Dropobox."¬"Aquest lloc o el seu navegador no suporta el selector de Dropbox. Per això, No és possible baixar un arxiu del seu compte de Dropobox."
+"Threshold"¬"Umbral"¬"Llindar"
+"Threshold (V)"¬"Umbral (V)"¬"Llindar (V)"
+"Threshold Voltage"¬"Tensión umbral"¬"Tensió llindar"
+"Time step size (s)"¬"Tamaño del intervalo de tiempo (s)"¬"Grandària de l'interval de temps (s)"
+"To open a file in your dropbox account using the chooser click below."¬"Para abrir un Archivo de su cuenta Dropbox usando el selector, pulsar abajo."¬"Per a obrir un arxiu del seu compte Dropbox usant el selector, prema ací baix."
+"To open a shared Dropbox file from a Dropbox link paste the link below..."¬"Para abrir un Archivo del Dropbox pegar el link abajo..."¬"Per a obrir un arxiu del Dropbox apegue l'enllaç de baix..."
+"Toggle Dev Tools"¬"Alternar herramientas de desarrollo"¬"Alternar eines de desenvolupament"
+"Toggle Full Screen"¬"Alternar a pantalla completa"¬"Alternar a pantalla completa"
+"Torque constant (Nm/A)"¬"Constante de par (Nm/A)"¬"Constant de parell (Nm/A)"
+"Total Width (nm)"¬"Longitud Total (nm)"¬"Longitud Total (nm)"
+"Traffic Light"¬"Semáforo"¬"Semàfor"
+"Transformer"¬"Trasformador"¬"Transformador"
+"Transformer w/ DC"¬"Trasformador c/ CC"¬"Transformador c/ CC"
+"Transformers"¬"Trasformadores"¬"Transformadors"
+"Transistors"¬"Transistor"¬"Transistor"
+"Transmission Lines"¬"Lineas de Transmisión"¬"Línies de Transmissió"
+"Transmission line delay too large!"¬"¡Retraso elevado en la línea de transmisión!"¬"Retard elevat en la línia de transmissió!"
+"Transport Saturation Current (IS)"¬"Corriente de Saturación Transportada (IS)"¬"Corrent de Saturació Transportada (IS)"
+"Trapezoidal Approximation"¬"Aproximación Trapezoidal"¬"Aproximació Trapezoidal"
+"Triangle"¬"Triangulo"¬"Triangle"
+"Triangle VCO"¬"VCO Triangulo"¬"VCO Triangle"
+"Triangle Wave"¬"Onda Triangular"¬"Onda Triangular"
+"Triangle Wave Generator"¬"Generador de Onda Triangular"¬"Generador d'Onda Triangular"
+"Triangle-to-Sine Converter"¬"Conversor Triangular-Senoidal"¬"Convertidor Triangular-Senoidal"
+"Trigger Current (A)"¬"corriente de Disparo (A)"¬"corrent de Tret (A)"
+"Trigger Type"¬"Tipo de Disparo"¬"Tipus de Tret"
+"Triode"¬"Triodo"¬"Tríode"
+"Triodes"¬"Triodos"¬"Tríodes"
+"True RMS Converter"¬"Conversor True RMS"¬"Convertidor True RMS"
+"Tunnel Diodes"¬"Diodo Túnel"¬"Díode Túnel"
+"Twin-T Filter"¬"Filtro Duplo T"¬"Filtre Doble T"
+"Type I PLL"¬"PLL Tipo I"¬"PLL Tipus I"
+"Type II PLL"¬"PLL Tipo II"¬"PLL Tipus II"
+"Type II PLL (fast)"¬"PLL Tipo II (veloz)"¬"PLL Tipus II (veloç)"
+"URL for this circuit is..."¬"La URL para este circuito es..."¬"La URL per a aquest circuit és..."
+"Undo"¬"Deshacer"¬"Desfer"
+"Undock Scope"¬"Mover Diagrama"¬"Moure Diagrama"
+"Undocked Scope"¬"Diagrama Desacoplado"¬"Diagrama Desacoblat"
+"Unijunction Oscillator"¬"Oscilador Uniunión"¬"Oscil·lador Uniunió"
+"Unity-Gain Phase Splitter"¬"Divisor de Fase con ganancia Unitaria"¬"Divisor de Fase amb guany Unitari"
+"Universal"¬"Universal"¬"Universal"
+"Unstack"¬"Desapilar"¬"Desapila"
+"Unstack All"¬"Desapilar Todos"¬"Desapila'ls tots"
+"Up/Down"¬"Arriba/Abajo"¬"A dalt/A baix"
+"Up/Down Counter"¬"Contador Arriba/Abajo"¬"Comptador A dalt/A baix"
+"Up/Down Pin"¬"Pin Arriba/Abajo"¬"Pin A dalt/A baix"
+"Upper threshold (V)"¬"Umbral Superior (V)"¬"Llindar Superior (V)"
+"Use New Model"¬"Usar Nuevo Modelo"¬"Usa Nou Model"
+"VCCS"¬"VCCS"¬"VCCS"
+"VCCS~"¬"VCCS~"¬"VCCS~"
+"VCO"¬"VCO"¬"VCO"
+"VCVS"¬"VCVS"¬"VCVS"
+"VCVS High-Pass Filter"¬"Filtro Pasa-Alta VCVS"¬"Filtre Passaalt VCVS"
+"VCVS Low-Pass Filter"¬"Filtro Pasa-Baja VCVS"¬"Filtre Passabaix VCVS"
+"Value"¬"Valor"¬"Valor"
+"Varactor"¬"Varicap"¬"Díode de capacitat variable"
+"Variable Current"¬"Corriente Variable"¬"Corrent Variable"
+"Variable V/I"¬"V/I Variable"¬"V/I Variable"
+"Vertical Scale"¬"Escala Vertical"¬"Escala Vertical"
+"View in New Scope"¬"Ver en Nuevo Diagrama"¬"Veure en Nou Diagrama"
+"View in New Undocked Scope"¬"Ver en Nuevo Diagrama Desacoplado"¬"Veure en Nou Diagrama Desacoblat"
+"Vilnius"¬"Vilnius"¬"Vilnius"
+"Voltage"¬"Tensión"¬"Tensió"
+"Voltage Divider"¬"Divisor de Tensión"¬"Divisor de Tensió"
+"Voltage Doubler"¬"Duplicador de Tensión"¬"Duplicador de Tensió"
+"Voltage Doubler 2"¬"Duplicador de Tensión 2"¬"Duplicador de Tensió 2"
+"Voltage Inverter"¬"Inversor de Tensión"¬"Inversor de Tensió"
+"Voltage Multipliers"¬"Multplicadores de Tensión"¬"Multiplicadors de Tensió"
+"Voltage Quadrupler"¬"Cuadriplicador de Tensión"¬"Quadriplicador de Tensió"
+"Voltage Reference"¬"Referencia de Tensión"¬"Referència de Tensió"
+"Voltage Reference w/ Follower"¬"Referencia de Tensión c/ Transistor en Configuración de Seguidor de Emisor"¬"Referència de Tensió c/ Transistor en Configuració de Seguidor d'Emissor"
+"Voltage Regulator"¬"Regulador de Tensión"¬"Regulador de Tensió"
+"Voltage Tripler"¬"Triplicador de Tensión"¬"Triplicador de Tensió"
+"Voltage source/wire loop with no resistance!"¬"¡Fuente de Tensión/corto-circuito!"¬"Font de Tensió/curt-circuit!"
+"Voltage-Controlled Oscillator"¬"Oscilador Controlado por Tensión"¬"Oscil·lador Controlat per Tensió"
+"Volume Control"¬"control de Volume"¬"control de Volum"
+"Waiting for short URL for web service..."¬"Aguardando por um URL para web service..."¬"Esperant URL per a web service..."
+"Warmup Time (s)"¬"tiempo de Calentamiento (s)"¬"temps de Calfament (s)"
+"Warning: this URL is longer than 2000 characters and may not work in some browsers."¬"Atención: URL mayor de 2.000 caracteres y puede no funcionar en algunos navegadores."¬"Atenció: URL major de 2.000 caràcters i pot no funcionar en alguns navegadors."
+"Waveform"¬"Forma de Onda"¬"Forma d'Onda"
+"Waveform Clipper"¬"Limitador de Forma de Onda"¬"Limitador de Forma d'Onda"
+"Weak Coupling"¬"Acoplamento Débil"¬"Acoblament Feble"
+"Wheatstone Bridge"¬"Puente de Wheatstone"¬"Pont de Wheatstone"
+"White Background"¬"Fondo en Blanco"¬"Fons en Blanco"
+"Width"¬"Longitud"¬"Longitud"
+"Width of Doped Region (nm)"¬"Longitud de la Región Dopada (nm)"¬"Longitud de la Regió Dopada (nm)"
+"Wien Bridge Oscillator"¬"Oscilador Puente de Wien"¬"Oscil·lador Pont de Wien"
+"X-Y Plots"¬"Gráficos X-Y"¬"Gràfics X-I"
+"XOR Phase Detector"¬"Detector de Fase XOR"¬"Detector de Fase XOR"
+"XOR gate"¬"Puerta XOR"¬"Porta XOR"
+"You can open a shared Dropbox file if you have a link. Paste the Dropbox link below..."¬"Usted puede abrir um Archivo compartilhado no Dropbox se Usted possui este link. pegar abajo o link do Dropbox..."¬"Pot obrir un Arxiu compartilt en Dropbox si té un enllaç. Copie l'enllaç de Dropbox d'ací baix..."
+"Zener Diodes"¬"Diodo Zener"¬"Díode Zener"
+"Zener diode"¬"Diodo zener"¬"Díode Zener"
+"Zoom 100%"¬"Zoom 100%"¬"Zoom 100 %"
+"Zoom In"¬"Más Zoom"¬"Més Zoom"
+"Zoom Out"¬"Menos Zoom"¬"Menys Zoom"
+"analog switch"¬"Interruptor analógico"¬"Interruptor analògic"
+"analog switch (SPDT)"¬"Interruptor analógico (SPDT)"¬"Interruptor analògic (SPDT)"
+"audio input"¬"entrada de áudio"¬"entrada d'àudio"
+"audio output"¬"Salida de áudio"¬"Eixida d'àudio"
+"behavior"¬"comportamiento"¬"comportament"
+"buffer"¬"buffer"¬"buffer"
+"capacitor"¬"Condensador"¬"Condensador"
+"capacitor (polarized)"¬"Condensador (polarizado)"¬"Condensador (polaritzat)"
+"capacitor exceeded max reverse voltage"¬"¡Excedida la Tensión inversa máxima aplicable al condensador!"¬"S'ha excedit la tensió inversa màxima aplicable al condensador!"
+"chip"¬"circuito integrado"¬"circuit integrat"
+"clk"¬"Reloj"¬"Rellotge"
+"closed"¬"cerrado"¬"tancat"
+"coil I"¬"resistencia I"¬"resistència I"
+"coil Vd"¬"resistencia Vd"¬"resistència Vd"
+"control"¬"control"¬"control"
+"crystal"¬"cristal"¬"cristall"
+"current source"¬"Fuente de corriente"¬"Font de corrent"
+"custom logic"¬"lógica personalizada"¬"lògica personalitzada"
+"cutoff"¬"cutoff"¬"cutoff"
+"darlington pair"¬"par darlington"¬"circuit Darlington"
+"data"¬"Datos"¬"Dades"
+"data export"¬"exportar Datos"¬"exportar Dades"
+"data in"¬"entrada de datos"¬"entrada de dades"
+"data input"¬"entrada de datos"¬"entrada de dades"
+"data out"¬"salida de datos"¬"eixida de dades"
+"decimal display"¬"display decimal"¬"visualitzador decimal"
+"decimalDigits"¬"dígitos decimales"¬"dígits decimals"
+"decimalDigitsShort"¬"dígitos decimales cortos"¬"dígits decimals curts"
+"delay = "¬"atraso = "¬"endarreriment = "
+"demultiplexer"¬"Demultiplexor"¬"Desmultiplexor"
+"diode"¬"diodo"¬"díode"
+"direct"¬"directo"¬"directe"
+"discharge"¬"descarga"¬"descàrrega"
+"exportaslocalfile"¬"exportar como fichero local"¬"exportar com a fitxer local"
+"ext"¬"externo"¬"extern"
+"ext. voltage"¬"voltaje externo"¬"voltatge extern"
+"f.3db = "¬"f.3dB = "¬"f.3dB = "
+"failed file reading"¬"fallo al leer el fichero"¬"fallada en llegir el fitxer"
+"false"¬"falso"¬"fals"
+"fc = "¬"fc = "¬"fc = "
+"for interesting"¬"de interés"¬"d'interés"
+"fuse"¬"fusible"¬"fusible"
+"fuse (blown)"¬"fusible (quemado)"¬"fusible (cremat)"
+"fwd active"¬"Región activa"¬"Regió activa"
+"general purpose"¬"uso general"¬"ús general"
+"germanium"¬"germanio"¬"germani"
+"ground"¬"Tierra - Masa"¬"Terra - Massa"
+"hello"¬"escribir texto"¬"escriure text"
+"high"¬"alto"¬"alt"
+"hold state"¬"estado de Retención"¬"estat de Retenció"
+"in 1"¬"entrada 1"¬"entrada 1"
+"in 2"¬"entrada 2"¬"entrada 2"
+"inductor"¬"Inductor"¬"Inductor"
+"infinite transistor current"¬"corriente infinita del transistor"¬"corrent infinit del transistor"
+"input"¬"entrada"¬"entrada"
+"inputs"¬"entradas"¬"entrades"
+"inverter"¬"inversor"¬"inversor"
+"inverting Schmitt trigger"¬"disparador Schmitt invertido"¬"disparador Schmitt invertit"
+"kg1"¬"kg1"¬"kg1"
+"lamp"¬"lámpara"¬"llum"
+"last"¬"último"¬"últim"
+"linear"¬"lineal"¬"lineal"
+"load"¬"carga Eléctrica"¬"càrrega Elèctrica"
+"load data"¬"cargar Datos"¬"carrega Dades"
+"load/shift"¬"carga/desplazamiento"¬"carrega/desplaçament"
+"logic input"¬"entrada lógica"¬"entrada lògica"
+"logic output"¬"Salida lógica"¬"Eixida lògica"
+"low"¬"low"¬"low"
+"master"¬"maestro"¬"mestre"
+"max current exceeded"¬"excedida la corriente máxima"¬"excedit el corrent màxim"
+"melted"¬"fundido"¬"fos"
+"memristor"¬"memristor"¬"memoresistència"
+"n-MOSFET"¬"n-MOSFET"¬"n-MOSFET"
+"nan/infinite matrix!"¬"NaN/matriz infinita!"¬"NaN/matriu infinita!"
+"no file loaded"¬"no hay fichero cargado"¬"no hi ha fitxer carregat"
+"noise gen"¬"generador de ruido"¬"generador de soroll"
+"normal"¬"+Z"¬"+Z"
+"normal "¬"normal"¬"normal"
+"off"¬"off"¬"off"
+"ohmmeter"¬"ohmímetro"¬"ohmímetre"
+"old model"¬"modelo antiguo"¬"model antic"
+"op-amp"¬"amplificador operacional"¬"amplificador operacional"
+"open"¬"abierto"¬"obert"
+"optocoupler"¬"Acoplador Óptico"¬"Acoblador Òptic"
+"or other values"¬"u otros valores"¬"o altres valors"
+"output"¬"Salida"¬"Eixida"
+"p-MOSFET"¬"p-MOSFET"¬"p-MOSFET"
+"parallel in 0"¬"paralelo en 0"¬"paral·lel en 0"
+"parallel in 1"¬"paralelo en 1"¬"paral·lel en 1"
+"parallel in 2"¬"paralelo en 2"¬"paral·lel en 2"
+"parallel in 3"¬"paralelo en 3"¬"paral·lel en 3"
+"phase comparator"¬"comparador de fase"¬"comparador de fase"
+"photoresistor"¬"fotoresistor"¬"fotoresistor"
+"potentiometer"¬"Resistencia variable"¬"Resistència variable"
+"pulse gen"¬"Generador de pulso"¬"Generador de pols"
+"push switch (SPST)"¬"Chave Push-Button (SPST)"¬"Clau Push-Button (SPST)"
+"refresh"¬"refresh"¬"actualitza"
+"relay"¬"relé"¬"relé"
+"res.f = "¬"f0 = "¬"f0 = "
+"reset"¬"reiniciar"¬"reinicia"
+"resistor"¬"resistor"¬"resistor"
+"reverse active"¬"reversa activa"¬"reversa activa"
+"ring counter"¬"contador en Anillo"¬"comptador en Anell"
+"rms"¬"rms"¬"rms"
+"row select"¬"Seleccionar Linea"¬"Seleccionar Línia"
+"sample"¬"muestra"¬"mostra"
+"saturation"¬"saturación"¬"saturació"
+"save"¬"Guardar"¬"Guarda"
+"saveas"¬"Guardar como"¬"Guarda com"
+"sawtooth gen"¬"Generador de Diente de Sierra"¬"Generador de Dent de Serra"
+"select"¬"seleccionar"¬"seleccionar"
+"sequence generator"¬"generador de secuencia"¬"generador de seqüència"
+"serial in left"¬"serie a izquierdas"¬"sèrie a esquerres"
+"serial in right"¬"serie a derechas"¬"sèrie a dretes"
+"set"¬"fijar"¬"fixa"
+"set/reset"¬"fijar/reiniciar"¬"fixa/reinicia"
+"shift left"¬"Desplazar a la izquierda"¬"Desplaça a l'esquerra"
+"shift right"¬"desplazar a la derecha"¬"desplaça a la dreta"
+"showelminfo"¬"mostrar información elm"¬"mostrar informació elm"
+"slave"¬"esclavo"¬"esclau"
+"spark gap"¬"espaciado de chispa"¬"espaiat d'espurna"
+"speed"¬"velocidad"¬"velocitat"
+"square wave gen"¬"generador de onda cuadrada"¬"generador d'ona quadrada"
+"stop trigger"¬"parar disparador"¬"parar disparador"
+"switch (SPST)"¬"conmutador (SPST)"¬"commutador (SPST)"
+"switching"¬"conmutando"¬"commutant"
+"thermistor"¬"termistor"¬"termistància"
+"threshold"¬"umbral"¬"llindar"
+"time delay relay"¬"relé de retardo de tiempo"¬"relé de retard de temps"
+"time step = "¬"intervalo tiempo = "¬"interval temps = "
+"toggle"¬"alternar"¬"alterna"
+"transformer"¬"transformador"¬"transformador"
+"transformer (custom)"¬"transformador (personalizado)"¬"transformador (personalitzat)"
+"transistor"¬"transistor"¬"transistor"
+"transmission line"¬"linea de transmisión"¬"línia de transmissió"
+"tri-state buffer"¬"buffer tri-estado"¬"buffer tri-estat"
+"triangle gen"¬"generador triangular"¬"generador triangular"
+"trigger"¬"disparador"¬"disparador"
+"triode"¬"triodo"¬"tríode"
+"tunnel diode"¬"diodo túnel"¬"díode túnel"
+"unexpected end of input"¬"final de la entrada inesperado"¬"final de l'entrada inesperat"
+"unijunction transistor"¬"transistor uniunión"¬"transistor uniunió"
+"varactor"¬"varicap"¬"díode de capacitat variable"
+"voltage source"¬"fuente de tensión"¬"font de tensió"
+"voltmeter"¬"voltímetro"¬"voltímetre"
+"wattmeter"¬"watimetro"¬"wattímetre"
+"wire"¬"cable"¬"cable"
+"wire loop detected"¬"corto-circuito"¬"curtcircuit"
+"write"¬"escribir"¬"escriure"
+"~lm317-dz 0 1e-14 0 1 6.3 0"¬"~lm317-dz 0 1e-14 0 1 6.3 0"¬"~lm317-dz 0 1e-14 0 1 6.3 0"
+"~lm317-qnl-A0.2 0 2e-17 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qnl-A0.2 0 2e-17 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qnl-A0.2 0 2e-17 0 0 1.5 0 0 2 1 1 0 0 1"
+"~lm317-qnl-A2 0 2e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qnl-A2 0 2e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qnl-A2 0 2e-16 0 0 1.5 0 0 2 1 1 0 0 1"
+"~lm317-qnl-A5 0 5e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qnl-A5 0 5e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qnl-A5 0 5e-16 0 0 1.5 0 0 2 1 1 0 0 1"
+"~lm317-qnl-A50 0 5e-15 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qnl-A50 0 5e-15 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qnl-A50 0 5e-15 0 0 1.5 0 0 2 1 1 0 0 1"
+"~lm317-qpl-A0.1 0 1e-17 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qpl-A0.1 0 1e-17 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qpl-A0.1 0 1e-17 0 0 1.5 0 0 2 1 1 0 0 1"
+"~lm317-qpl-A0.2 0 2e-17 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qpl-A0.2 0 2e-17 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qpl-A0.2 0 2e-17 0 0 1.5 0 0 2 1 1 0 0 1"
+"~lm317-qpl-A2 0 2e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qpl-A2 0 2e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~lm317-qpl-A2 0 2e-16 0 0 1.5 0 0 2 1 1 0 0 1"
+"~tl431ed-d_ed 0 1e-14 5 1 0 0"¬"~tl431ed-d_ed 0 1e-14 5 1 0 0"¬"~tl431ed-d_ed 0 1e-14 5 1 0 0"
+"~tl431ed-qn_ed 0 1e-16 0 0 1.5 0 0 2 1 1 0.0125 0.02 1"¬"~tl431ed-qn_ed 0 1e-16 0 0 1.5 0 0 2 1 1 0.0125 0.02 1"¬"~tl431ed-qn_ed 0 1e-16 0 0 1.5 0 0 2 1 1 0.0125 0.02 1"
+"~tl431ed-qn_ed-A0.5 0 5e-17 0 0 1.5 0 0 2 1 1 0 0 1"¬"~tl431ed-qn_ed-A0.5 0 5e-17 0 0 1.5 0 0 2 1 1 0 0 1"¬"~tl431ed-qn_ed-A0.5 0 5e-17 0 0 1.5 0 0 2 1 1 0 0 1"
+"~tl431ed-qn_ed-A1.2 0 1.2e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~tl431ed-qn_ed-A1.2 0 1.2e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~tl431ed-qn_ed-A1.2 0 1.2e-16 0 0 1.5 0 0 2 1 1 0 0 1"
+"~tl431ed-qn_ed-A2.2 0 2.2000000000000002e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~tl431ed-qn_ed-A2.2 0 2.2000000000000002e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~tl431ed-qn_ed-A2.2 0 2.2000000000000002e-16 0 0 1.5 0 0 2 1 1 0 0 1"
+"~tl431ed-qn_ed-A5 0 5e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~tl431ed-qn_ed-A5 0 5e-16 0 0 1.5 0 0 2 1 1 0 0 1"¬"~tl431ed-qn_ed-A5 0 5e-16 0 0 1.5 0 0 2 1 1 0 0 1"
+"~tl431ed-qp_ed 0 1e-16 0 0 1.5 0 0 2 1 1 0.014285714285714285 0.025 1"¬"~tl431ed-qp_ed 0 1e-16 0 0 1.5 0 0 2 1 1 0.014285714285714285 0.025 1"¬"~tl431ed-qp_ed 0 1e-16 0 0 1.5 0 0 2 1 1 0.014285714285714285 0.025 1"
+"Ćuk Converter"¬"Ćuk Convertidor"¬"Ćuk Convertidor"
